@@ -1,0 +1,709 @@
+year,total,depression,anxiety,lifeexpectancy
+2018,High medals,Very Low depression,Very Low anxiety,High lifeexpectancy
+2018,Very High medals,Very High depression,High anxiety,High lifeexpectancy
+2018,High medals,Very Low depression,Very Low anxiety,Very High lifeexpectancy
+2018,Very High medals,Medium depression,Very High anxiety,Very High lifeexpectancy
+2018,Medium medals,High depression,High anxiety,Very High lifeexpectancy
+2018,High medals,Medium depression,Very High anxiety,Very High lifeexpectancy
+2018,High medals,Medium depression,High anxiety,Very High lifeexpectancy
+2018,High medals,Very Low depression,Very Low anxiety,Very High lifeexpectancy
+2018,Very Low medals,Very High depression,High anxiety,Very High lifeexpectancy
+2018,Very Low medals,Very Low depression,Very Low anxiety,High lifeexpectancy
+2018,Very High medals,Low depression,Medium anxiety,Very High lifeexpectancy
+2018,Very Low medals,Medium depression,Very Low anxiety,Medium lifeexpectancy
+2018,Low medals,Very High depression,Very High anxiety,Very High lifeexpectancy
+2018,Very Low medals,Medium depression,Very Low anxiety,Low lifeexpectancy
+2018,Very High medals,Medium depression,Very High anxiety,Very High lifeexpectancy
+2018,Very Low medals,Medium depression,High anxiety,Very High lifeexpectancy
+2018,High medals,High depression,High anxiety,Very High lifeexpectancy
+2018,Very Low medals,Very Low depression,Low anxiety,Medium lifeexpectancy
+2018,Low medals,Medium depression,Low anxiety,Medium lifeexpectancy
+2018,High medals,Low depression,Very High anxiety,Very High lifeexpectancy
+2018,High medals,Medium depression,Very High anxiety,Very High lifeexpectancy
+2018,Low medals,Very Low depression,Low anxiety,High lifeexpectancy
+2018,Medium medals,High depression,Medium anxiety,Very High lifeexpectancy
+2018,Very High medals,Low depression,Very High anxiety,Very High lifeexpectancy
+2018,Very Low medals,Medium depression,Very High anxiety,Very High lifeexpectancy
+2018,Very Low medals,Low depression,Low anxiety,Very High lifeexpectancy
+2018,Very Low medals,Medium depression,Medium anxiety,Medium lifeexpectancy
+2016,Very Low medals,Medium depression,Very Low anxiety,Low lifeexpectancy
+2016,Very High medals,Very Low depression,Very Low anxiety,High lifeexpectancy
+2016,Very High medals,Very High depression,High anxiety,High lifeexpectancy
+2016,Medium medals,Very Low depression,Low anxiety,Low lifeexpectancy
+2016,Very Low medals,Medium depression,Very Low anxiety,Very Low lifeexpectancy
+2016,Very High medals,High depression,Very High anxiety,Medium lifeexpectancy
+2016,Very High medals,Low depression,Very Low anxiety,Low lifeexpectancy
+2016,Medium medals,Very High depression,Low anxiety,Very Low lifeexpectancy
+2016,Medium medals,Medium depression,Low anxiety,Medium lifeexpectancy
+2016,Very High medals,Very Low depression,Very Low anxiety,Very High lifeexpectancy
+2016,Very Low medals,Very Low depression,High anxiety,Low lifeexpectancy
+2016,Low medals,High depression,High anxiety,Low lifeexpectancy
+2016,Very Low medals,Very Low depression,Very Low anxiety,Medium lifeexpectancy
+2016,Medium medals,Very High depression,Very High anxiety,Medium lifeexpectancy
+2016,Medium medals,High depression,High anxiety,Medium lifeexpectancy
+2016,Very High medals,Medium depression,Very High anxiety,Very High lifeexpectancy
+2016,Medium medals,Very Low depression,Low anxiety,High lifeexpectancy
+2016,Very High medals,High depression,High anxiety,Very High lifeexpectancy
+2016,Very High medals,Medium depression,Very High anxiety,Very High lifeexpectancy
+2016,High medals,High depression,Medium anxiety,Very Low lifeexpectancy
+2016,Very High medals,Medium depression,Very High anxiety,Very High lifeexpectancy
+2016,High medals,Very High depression,Low anxiety,Very Low lifeexpectancy
+2016,Medium medals,Very Low depression,Medium anxiety,Medium lifeexpectancy
+2016,Very High medals,Very Low depression,Low anxiety,Very High lifeexpectancy
+2016,High medals,Very High depression,High anxiety,Very High lifeexpectancy
+2016,Very Low medals,High depression,High anxiety,Medium lifeexpectancy
+2016,Medium medals,Very Low depression,High anxiety,Medium lifeexpectancy
+2016,High medals,Very Low depression,Very Low anxiety,High lifeexpectancy
+2016,Very High medals,Low depression,Medium anxiety,Very High lifeexpectancy
+2016,Very Low medals,Very High depression,High anxiety,Low lifeexpectancy
+2016,High medals,Medium depression,Very Low anxiety,Medium lifeexpectancy
+2016,High medals,Low depression,Very Low anxiety,Low lifeexpectancy
+2016,Medium medals,Medium depression,High anxiety,Medium lifeexpectancy
+2016,Low medals,Low depression,Medium anxiety,Low lifeexpectancy
+2016,Very Low medals,High depression,Very Low anxiety,Very Low lifeexpectancy
+2016,Very High medals,Very High depression,Very High anxiety,Very High lifeexpectancy
+2016,Medium medals,Very Low depression,Medium anxiety,Low lifeexpectancy
+2016,Low medals,Very Low depression,Medium anxiety,High lifeexpectancy
+2016,High medals,Medium depression,Very Low anxiety,Low lifeexpectancy
+2016,Medium medals,Very Low depression,Very Low anxiety,Medium lifeexpectancy
+2016,Very High medals,Medium depression,Very High anxiety,Very High lifeexpectancy
+2016,Very Low medals,Very High depression,Low anxiety,Very Low lifeexpectancy
+2016,Low medals,Very High depression,High anxiety,Medium lifeexpectancy
+2016,Medium medals,Medium depression,High anxiety,Very High lifeexpectancy
+2016,Very Low medals,Medium depression,High anxiety,Low lifeexpectancy
+2016,Very Low medals,High depression,High anxiety,Medium lifeexpectancy
+2016,High medals,Medium depression,Medium anxiety,High lifeexpectancy
+2016,High medals,High depression,High anxiety,Very High lifeexpectancy
+2016,High medals,Very Low depression,Very Low anxiety,Low lifeexpectancy
+2016,Very Low medals,Very Low depression,Very Low anxiety,Low lifeexpectancy
+2016,Medium medals,Very High depression,Very High anxiety,Very High lifeexpectancy
+2016,Very Low medals,Very High depression,Very High anxiety,Very High lifeexpectancy
+2016,High medals,Very Low depression,Low anxiety,Medium lifeexpectancy
+2016,Very Low medals,Medium depression,Medium anxiety,High lifeexpectancy
+2016,High medals,Medium depression,Low anxiety,Medium lifeexpectancy
+2016,Very Low medals,High depression,Medium anxiety,Very High lifeexpectancy
+2016,Very Low medals,Low depression,Very High anxiety,Very High lifeexpectancy
+2016,Medium medals,Medium depression,Very High anxiety,Very High lifeexpectancy
+2016,High medals,Very Low depression,Low anxiety,Medium lifeexpectancy
+2016,Low medals,Very Low depression,Low anxiety,Medium lifeexpectancy
+2016,Very Low medals,Very Low depression,Very Low anxiety,Very High lifeexpectancy
+2016,High medals,Medium depression,High anxiety,Very High lifeexpectancy
+2016,Medium medals,Very Low depression,Low anxiety,High lifeexpectancy
+2016,Very Low medals,High depression,Medium anxiety,Very High lifeexpectancy
+2016,Medium medals,Low depression,Very High anxiety,Very High lifeexpectancy
+2016,Very High medals,Medium depression,Very High anxiety,Very High lifeexpectancy
+2016,Low medals,High depression,Very High anxiety,Very High lifeexpectancy
+2016,High medals,Low depression,Low anxiety,High lifeexpectancy
+2016,Medium medals,Low depression,Very Low anxiety,Medium lifeexpectancy
+2016,Very Low medals,High depression,Very Low anxiety,Low lifeexpectancy
+2016,Very Low medals,Low depression,High anxiety,Very High lifeexpectancy
+2016,High medals,Low depression,Medium anxiety,Low lifeexpectancy
+2016,Medium medals,Low depression,Very Low anxiety,Medium lifeexpectancy
+2016,Very Low medals,High depression,Medium anxiety,Very High lifeexpectancy
+2016,Medium medals,High depression,Medium anxiety,Medium lifeexpectancy
+2016,Medium medals,Low depression,Low anxiety,Very High lifeexpectancy
+2016,Very Low medals,High depression,Medium anxiety,Medium lifeexpectancy
+2016,Very Low medals,Very High depression,High anxiety,High lifeexpectancy
+2016,Very Low medals,Medium depression,Low anxiety,High lifeexpectancy
+2016,Very Low medals,Very Low depression,Medium anxiety,Very Low lifeexpectancy
+2016,Very Low medals,Low depression,Medium anxiety,Low lifeexpectancy
+2016,Very Low medals,Low depression,Medium anxiety,Medium lifeexpectancy
+2014,High medals,Very Low depression,Very Low anxiety,Medium lifeexpectancy
+2014,Very High medals,Very High depression,High anxiety,High lifeexpectancy
+2014,Very High medals,Low depression,Very Low anxiety,Low lifeexpectancy
+2014,Medium medals,Very Low depression,Very Low anxiety,Very High lifeexpectancy
+2014,Very High medals,Medium depression,Very High anxiety,Very High lifeexpectancy
+2014,Medium medals,High depression,High anxiety,Very High lifeexpectancy
+2014,High medals,Medium depression,Very High anxiety,Very High lifeexpectancy
+2014,Medium medals,Medium depression,Very High anxiety,Very High lifeexpectancy
+2014,Medium medals,Very Low depression,Low anxiety,Very High lifeexpectancy
+2014,Medium medals,Very Low depression,Very Low anxiety,High lifeexpectancy
+2014,Very High medals,Low depression,Medium anxiety,Very High lifeexpectancy
+2014,Very Low medals,High depression,Very Low anxiety,Low lifeexpectancy
+2014,Low medals,Very High depression,High anxiety,Very High lifeexpectancy
+2014,Very Low medals,Medium depression,Very Low anxiety,Low lifeexpectancy
+2014,Very High medals,Medium depression,Very High anxiety,Very High lifeexpectancy
+2014,High medals,High depression,High anxiety,Very High lifeexpectancy
+2014,Medium medals,Medium depression,Low anxiety,Medium lifeexpectancy
+2014,High medals,Low depression,Very High anxiety,Very High lifeexpectancy
+2014,High medals,Medium depression,Very High anxiety,Very High lifeexpectancy
+2014,Very Low medals,Very Low depression,Low anxiety,High lifeexpectancy
+2014,Medium medals,High depression,Medium anxiety,Very High lifeexpectancy
+2014,Very High medals,Low depression,Very High anxiety,Very High lifeexpectancy
+2014,Very Low medals,Low depression,Low anxiety,High lifeexpectancy
+2014,Medium medals,Low depression,Low anxiety,Very High lifeexpectancy
+2014,Medium medals,Medium depression,Medium anxiety,Medium lifeexpectancy
+2012,Medium medals,Medium depression,Very Low anxiety,Very Low lifeexpectancy
+2012,Very High medals,Very Low depression,Very Low anxiety,Medium lifeexpectancy
+2012,Very High medals,Very High depression,High anxiety,High lifeexpectancy
+2012,Low medals,Very Low depression,Low anxiety,Very Low lifeexpectancy
+2012,Very High medals,High depression,Very High anxiety,Medium lifeexpectancy
+2012,Very High medals,Low depression,Very Low anxiety,Low lifeexpectancy
+2012,Medium medals,Very High depression,Low anxiety,Very Low lifeexpectancy
+2012,High medals,Medium depression,Low anxiety,Medium lifeexpectancy
+2012,Very High medals,Very Low depression,Very Low anxiety,Very High lifeexpectancy
+2012,Medium medals,Medium depression,High anxiety,Low lifeexpectancy
+2012,High medals,Very High depression,Very High anxiety,Medium lifeexpectancy
+2012,Low medals,High depression,High anxiety,Medium lifeexpectancy
+2012,Very High medals,Medium depression,Very High anxiety,Very High lifeexpectancy
+2012,Medium medals,Very Low depression,Low anxiety,Medium lifeexpectancy
+2012,Very High medals,High depression,High anxiety,Very High lifeexpectancy
+2012,Very High medals,High depression,Very High anxiety,Very High lifeexpectancy
+2012,Medium medals,High depression,Medium anxiety,Very Low lifeexpectancy
+2012,Very High medals,Medium depression,High anxiety,Very High lifeexpectancy
+2012,High medals,Very High depression,Low anxiety,Very Low lifeexpectancy
+2012,High medals,Very Low depression,Medium anxiety,Medium lifeexpectancy
+2012,Very High medals,Very Low depression,Low anxiety,Very High lifeexpectancy
+2012,Very Low medals,Very High depression,Medium anxiety,Very Low lifeexpectancy
+2012,Very High medals,Very High depression,High anxiety,Very High lifeexpectancy
+2012,Very Low medals,High depression,High anxiety,Medium lifeexpectancy
+2012,Medium medals,Very Low depression,High anxiety,Medium lifeexpectancy
+2012,Very Low medals,Very High depression,High anxiety,Very Low lifeexpectancy
+2012,High medals,Very Low depression,Very Low anxiety,Medium lifeexpectancy
+2012,Very High medals,Low depression,Medium anxiety,Very High lifeexpectancy
+2012,Very Low medals,Very High depression,High anxiety,Low lifeexpectancy
+2012,High medals,High depression,Very Low anxiety,Low lifeexpectancy
+2012,Very Low medals,High depression,High anxiety,Medium lifeexpectancy
+2012,Very Low medals,Low depression,Very Low anxiety,Low lifeexpectancy
+2012,Very Low medals,Medium depression,High anxiety,Medium lifeexpectancy
+2012,Very Low medals,Low depression,Medium anxiety,Low lifeexpectancy
+2012,Very Low medals,Very High depression,Very Low anxiety,Very Low lifeexpectancy
+2012,Very High medals,Very High depression,Very High anxiety,Very High lifeexpectancy
+2012,Medium medals,Very Low depression,Medium anxiety,Low lifeexpectancy
+2012,Very Low medals,Very Low depression,Medium anxiety,High lifeexpectancy
+2012,High medals,Medium depression,Very Low anxiety,Very Low lifeexpectancy
+2012,Medium medals,Very Low depression,Very Low anxiety,Medium lifeexpectancy
+2012,Very Low medals,High depression,Medium anxiety,Low lifeexpectancy
+2012,Very High medals,Medium depression,Very High anxiety,Very High lifeexpectancy
+2012,Low medals,Very High depression,High anxiety,Medium lifeexpectancy
+2012,Low medals,Medium depression,High anxiety,Very High lifeexpectancy
+2012,Very Low medals,High depression,High anxiety,Low lifeexpectancy
+2012,High medals,Medium depression,Medium anxiety,High lifeexpectancy
+2012,High medals,High depression,High anxiety,Very High lifeexpectancy
+2012,High medals,Very Low depression,Very Low anxiety,Low lifeexpectancy
+2012,Very Low medals,Very Low depression,Very Low anxiety,Very Low lifeexpectancy
+2012,Low medals,Very High depression,Very High anxiety,Very High lifeexpectancy
+2012,Very Low medals,Very High depression,Very High anxiety,Very High lifeexpectancy
+2012,Very High medals,Very Low depression,Low anxiety,Medium lifeexpectancy
+2012,High medals,High depression,Low anxiety,Low lifeexpectancy
+2012,Medium medals,Medium depression,Very High anxiety,Very High lifeexpectancy
+2012,Medium medals,Very Low depression,Low anxiety,Medium lifeexpectancy
+2012,Low medals,Very Low depression,Low anxiety,Medium lifeexpectancy
+2012,Very Low medals,Very Low depression,Very Low anxiety,Very High lifeexpectancy
+2012,High medals,Medium depression,High anxiety,Very High lifeexpectancy
+2012,Medium medals,Very Low depression,Low anxiety,Medium lifeexpectancy
+2012,Low medals,Very High depression,Medium anxiety,Very High lifeexpectancy
+2012,Medium medals,Low depression,Very High anxiety,Very High lifeexpectancy
+2012,High medals,Medium depression,Very High anxiety,Very High lifeexpectancy
+2012,Medium medals,High depression,Very High anxiety,Very High lifeexpectancy
+2012,Very Low medals,High depression,High anxiety,High lifeexpectancy
+2012,Medium medals,Low depression,Low anxiety,High lifeexpectancy
+2012,Medium medals,Low depression,Very Low anxiety,Low lifeexpectancy
+2012,Medium medals,High depression,Very Low anxiety,Very Low lifeexpectancy
+2012,Very Low medals,Low depression,Medium anxiety,High lifeexpectancy
+2012,High medals,Low depression,Medium anxiety,Low lifeexpectancy
+2012,Very Low medals,Low depression,Very Low anxiety,Low lifeexpectancy
+2012,Very Low medals,High depression,Medium anxiety,High lifeexpectancy
+2012,Very Low medals,High depression,Low anxiety,Very Low lifeexpectancy
+2012,Medium medals,High depression,Medium anxiety,Medium lifeexpectancy
+2012,Very Low medals,Very High depression,Medium anxiety,Very Low lifeexpectancy
+2012,Medium medals,Low depression,Low anxiety,Very High lifeexpectancy
+2012,Low medals,Medium depression,Medium anxiety,Medium lifeexpectancy
+2012,Medium medals,Medium depression,Medium anxiety,Medium lifeexpectancy
+2012,Very Low medals,Very High depression,High anxiety,High lifeexpectancy
+2012,Very Low medals,Medium depression,Low anxiety,Medium lifeexpectancy
+2012,Very Low medals,Low depression,Very High anxiety,Very High lifeexpectancy
+2012,Very Low medals,Very Low depression,Medium anxiety,Medium lifeexpectancy
+2012,Very Low medals,Low depression,Medium anxiety,Low lifeexpectancy
+2012,Very Low medals,Low depression,Medium anxiety,Medium lifeexpectancy
+2010,High medals,Very Low depression,Low anxiety,Medium lifeexpectancy
+2010,Very High medals,Very High depression,Very High anxiety,High lifeexpectancy
+2010,High medals,Low depression,Very Low anxiety,Low lifeexpectancy
+2010,Medium medals,Very Low depression,Very Low anxiety,Very High lifeexpectancy
+2010,Very High medals,Medium depression,Very High anxiety,Very High lifeexpectancy
+2010,Very Low medals,High depression,High anxiety,Very High lifeexpectancy
+2010,High medals,High depression,Very High anxiety,Very High lifeexpectancy
+2010,Medium medals,Medium depression,High anxiety,Very High lifeexpectancy
+2010,High medals,Very Low depression,Low anxiety,Very High lifeexpectancy
+2010,Medium medals,Very Low depression,Very Low anxiety,Medium lifeexpectancy
+2010,Very High medals,Low depression,Medium anxiety,Very High lifeexpectancy
+2010,Low medals,Very High depression,Very High anxiety,Very High lifeexpectancy
+2010,Very Low medals,Medium depression,Very Low anxiety,Very Low lifeexpectancy
+2010,Medium medals,Medium depression,Very High anxiety,Very High lifeexpectancy
+2010,High medals,High depression,High anxiety,Very High lifeexpectancy
+2010,Low medals,High depression,Low anxiety,Low lifeexpectancy
+2010,High medals,Low depression,Very High anxiety,Very High lifeexpectancy
+2010,High medals,Medium depression,Very High anxiety,Very High lifeexpectancy
+2010,Low medals,Very Low depression,Low anxiety,Medium lifeexpectancy
+2010,Medium medals,Very High depression,Medium anxiety,Very High lifeexpectancy
+2010,Very High medals,Low depression,Very High anxiety,Very High lifeexpectancy
+2010,Low medals,Low depression,Low anxiety,Medium lifeexpectancy
+2010,Low medals,Low depression,Low anxiety,High lifeexpectancy
+2010,Low medals,Medium depression,Medium anxiety,Low lifeexpectancy
+2010,Very Low medals,Medium depression,Low anxiety,Medium lifeexpectancy
+2008,Low medals,High depression,Very Low anxiety,Very Low lifeexpectancy
+2008,Very High medals,Very Low depression,Low anxiety,Medium lifeexpectancy
+2008,Very High medals,Very High depression,Very High anxiety,High lifeexpectancy
+2008,Medium medals,Very Low depression,Low anxiety,Very Low lifeexpectancy
+2008,Medium medals,Very High depression,Very Low anxiety,Very Low lifeexpectancy
+2008,Very High medals,Very High depression,Very High anxiety,Low lifeexpectancy
+2008,Very High medals,Low depression,Very Low anxiety,Very Low lifeexpectancy
+2008,Medium medals,Very High depression,Low anxiety,Very Low lifeexpectancy
+2008,Medium medals,Medium depression,Medium anxiety,Medium lifeexpectancy
+2008,Very High medals,Very Low depression,Very Low anxiety,Very High lifeexpectancy
+2008,Very Low medals,Medium depression,Medium anxiety,Very Low lifeexpectancy
+2008,Very Low medals,Very Low depression,Very Low anxiety,Low lifeexpectancy
+2008,Very Low medals,Very High depression,Very High anxiety,Low lifeexpectancy
+2008,Medium medals,High depression,High anxiety,Medium lifeexpectancy
+2008,Very High medals,Medium depression,Very High anxiety,High lifeexpectancy
+2008,Medium medals,Very Low depression,Low anxiety,Medium lifeexpectancy
+2008,Very High medals,High depression,Medium anxiety,High lifeexpectancy
+2008,Very High medals,High depression,Very High anxiety,Very High lifeexpectancy
+2008,Very Low medals,Medium depression,Medium anxiety,Very Low lifeexpectancy
+2008,Very High medals,Medium depression,High anxiety,Very High lifeexpectancy
+2008,High medals,Very High depression,Low anxiety,Very Low lifeexpectancy
+2008,Low medals,Very Low depression,High anxiety,Medium lifeexpectancy
+2008,Very High medals,Very Low depression,Low anxiety,Very High lifeexpectancy
+2008,Very Low medals,Very High depression,High anxiety,Very Low lifeexpectancy
+2008,Very High medals,High depression,High anxiety,Very High lifeexpectancy
+2008,Very Low medals,High depression,High anxiety,Low lifeexpectancy
+2008,Medium medals,Very Low depression,High anxiety,Medium lifeexpectancy
+2008,Very Low medals,Very High depression,High anxiety,Very Low lifeexpectancy
+2008,High medals,Very Low depression,Very Low anxiety,Medium lifeexpectancy
+2008,Very High medals,Low depression,Medium anxiety,Very High lifeexpectancy
+2008,Very Low medals,Very High depression,High anxiety,Low lifeexpectancy
+2008,Very High medals,High depression,Very Low anxiety,Very Low lifeexpectancy
+2008,Medium medals,Low depression,Very Low anxiety,Very Low lifeexpectancy
+2008,Very Low medals,Low depression,High anxiety,Medium lifeexpectancy
+2008,Very Low medals,Medium depression,Medium anxiety,Low lifeexpectancy
+2008,Very Low medals,Very High depression,Very Low anxiety,Very Low lifeexpectancy
+2008,Very High medals,Very High depression,Very High anxiety,Very High lifeexpectancy
+2008,Medium medals,Very Low depression,Medium anxiety,Very Low lifeexpectancy
+2008,Medium medals,Very Low depression,Medium anxiety,High lifeexpectancy
+2008,High medals,Medium depression,Very Low anxiety,Very Low lifeexpectancy
+2008,Very Low medals,High depression,Very High anxiety,High lifeexpectancy
+2008,High medals,Very Low depression,Very Low anxiety,Medium lifeexpectancy
+2008,Very Low medals,Medium depression,High anxiety,Medium lifeexpectancy
+2008,High medals,Medium depression,Very High anxiety,Very High lifeexpectancy
+2008,Medium medals,Low depression,Very Low anxiety,Very Low lifeexpectancy
+2008,Very Low medals,Very High depression,High anxiety,Medium lifeexpectancy
+2008,Very Low medals,Medium depression,High anxiety,High lifeexpectancy
+2008,Very Low medals,High depression,High anxiety,Low lifeexpectancy
+2008,Very High medals,High depression,Medium anxiety,High lifeexpectancy
+2008,Medium medals,High depression,High anxiety,Very High lifeexpectancy
+2008,Medium medals,Very Low depression,Very Low anxiety,Very Low lifeexpectancy
+2008,Very Low medals,Very Low depression,Very Low anxiety,Very Low lifeexpectancy
+2008,Medium medals,Very High depression,Very High anxiety,Very High lifeexpectancy
+2008,Very Low medals,Very High depression,Very High anxiety,High lifeexpectancy
+2008,High medals,Low depression,Low anxiety,Medium lifeexpectancy
+2008,High medals,High depression,Low anxiety,Low lifeexpectancy
+2008,Very Low medals,Very High depression,Low anxiety,Very High lifeexpectancy
+2008,Very Low medals,Very High depression,Low anxiety,Very Low lifeexpectancy
+2008,Low medals,Low depression,Very High anxiety,Very High lifeexpectancy
+2008,Medium medals,Medium depression,Very High anxiety,Very High lifeexpectancy
+2008,Low medals,Low depression,Low anxiety,Medium lifeexpectancy
+2008,Low medals,Medium depression,Very Low anxiety,Very Low lifeexpectancy
+2008,Medium medals,Very Low depression,Low anxiety,Low lifeexpectancy
+2008,Very Low medals,Very Low depression,Very Low anxiety,Very High lifeexpectancy
+2008,High medals,Medium depression,High anxiety,High lifeexpectancy
+2008,Medium medals,Very Low depression,Low anxiety,Medium lifeexpectancy
+2008,Medium medals,Very High depression,Medium anxiety,High lifeexpectancy
+2008,High medals,Low depression,Very High anxiety,Very High lifeexpectancy
+2008,High medals,Medium depression,Very High anxiety,Very High lifeexpectancy
+2008,Low medals,High depression,Very High anxiety,High lifeexpectancy
+2008,Very Low medals,Low depression,Low anxiety,Medium lifeexpectancy
+2008,Medium medals,Low depression,Low anxiety,Medium lifeexpectancy
+2008,Medium medals,Low depression,Very Low anxiety,Low lifeexpectancy
+2008,Medium medals,High depression,Very Low anxiety,Very Low lifeexpectancy
+2008,Very Low medals,Low depression,Medium anxiety,Low lifeexpectancy
+2008,High medals,Low depression,Medium anxiety,Low lifeexpectancy
+2008,Medium medals,Low depression,Very Low anxiety,Low lifeexpectancy
+2008,Medium medals,High depression,High anxiety,Low lifeexpectancy
+2008,Medium medals,Low depression,Low anxiety,High lifeexpectancy
+2008,Low medals,Medium depression,Medium anxiety,Low lifeexpectancy
+2008,Very Low medals,Medium depression,Medium anxiety,Low lifeexpectancy
+2008,Low medals,High depression,Low anxiety,Medium lifeexpectancy
+2008,Very Low medals,High depression,Medium anxiety,Low lifeexpectancy
+2008,Very Low medals,Low depression,Medium anxiety,Low lifeexpectancy
+2008,Very Low medals,Low depression,High anxiety,Very High lifeexpectancy
+2008,Very Low medals,Very Low depression,Medium anxiety,Low lifeexpectancy
+2006,High medals,Very Low depression,Low anxiety,Medium lifeexpectancy
+2006,Very High medals,Very High depression,Very High anxiety,High lifeexpectancy
+2006,Very High medals,Low depression,Very Low anxiety,Very Low lifeexpectancy
+2006,Very Low medals,Very Low depression,Very Low anxiety,Very High lifeexpectancy
+2006,Very High medals,Medium depression,Very High anxiety,High lifeexpectancy
+2006,Very Low medals,High depression,Medium anxiety,High lifeexpectancy
+2006,High medals,High depression,Very High anxiety,Very High lifeexpectancy
+2006,High medals,Medium depression,High anxiety,Very High lifeexpectancy
+2006,High medals,Very Low depression,Very Low anxiety,High lifeexpectancy
+2006,Very Low medals,Very Low depression,Very Low anxiety,Medium lifeexpectancy
+2006,Very High medals,Low depression,Low anxiety,Very High lifeexpectancy
+2006,Low medals,High depression,Very Low anxiety,Very Low lifeexpectancy
+2006,Very Low medals,Very High depression,High anxiety,Very High lifeexpectancy
+2006,High medals,Medium depression,Very High anxiety,Very High lifeexpectancy
+2006,High medals,High depression,High anxiety,Very High lifeexpectancy
+2006,Very Low medals,High depression,Low anxiety,Low lifeexpectancy
+2006,Very High medals,Low depression,Very High anxiety,Very High lifeexpectancy
+2006,High medals,Low depression,Very High anxiety,Very High lifeexpectancy
+2006,Very Low medals,Very Low depression,Low anxiety,Low lifeexpectancy
+2006,Very Low medals,Very Low depression,Low anxiety,Medium lifeexpectancy
+2006,High medals,Very High depression,Medium anxiety,High lifeexpectancy
+2006,Very High medals,Low depression,Very High anxiety,Very High lifeexpectancy
+2006,Low medals,Low depression,Low anxiety,Medium lifeexpectancy
+2006,Very Low medals,High depression,Medium anxiety,Low lifeexpectancy
+2006,Low medals,High depression,Low anxiety,Low lifeexpectancy
+2004,Very Low medals,Very High depression,Very Low anxiety,Very Low lifeexpectancy
+2004,Very High medals,Very Low depression,Low anxiety,Medium lifeexpectancy
+2004,Very High medals,Very High depression,Very High anxiety,High lifeexpectancy
+2004,Medium medals,Very Low depression,Low anxiety,Very Low lifeexpectancy
+2004,Very Low medals,Very High depression,Very Low anxiety,Very Low lifeexpectancy
+2004,High medals,Very High depression,Very High anxiety,Low lifeexpectancy
+2004,Very High medals,Low depression,Very Low anxiety,Very Low lifeexpectancy
+2004,Medium medals,Very High depression,Low anxiety,Very Low lifeexpectancy
+2004,Medium medals,Low depression,Low anxiety,Medium lifeexpectancy
+2004,Very High medals,Very Low depression,Very Low anxiety,Very High lifeexpectancy
+2004,Medium medals,Medium depression,Medium anxiety,Very Low lifeexpectancy
+2004,Medium medals,Very High depression,Very High anxiety,Low lifeexpectancy
+2004,High medals,High depression,High anxiety,Low lifeexpectancy
+2004,Very High medals,Medium depression,Very High anxiety,High lifeexpectancy
+2004,Medium medals,Very Low depression,Low anxiety,Low lifeexpectancy
+2004,Very High medals,High depression,Medium anxiety,High lifeexpectancy
+2004,Very High medals,High depression,Very High anxiety,Very High lifeexpectancy
+2004,Medium medals,Medium depression,Medium anxiety,Very Low lifeexpectancy
+2004,Very High medals,Medium depression,High anxiety,Very High lifeexpectancy
+2004,Medium medals,Very High depression,Low anxiety,Very Low lifeexpectancy
+2004,Very Low medals,Very Low depression,High anxiety,Low lifeexpectancy
+2004,Very High medals,Very Low depression,Low anxiety,High lifeexpectancy
+2004,Very High medals,Medium depression,High anxiety,Very High lifeexpectancy
+2004,Medium medals,Very Low depression,High anxiety,Medium lifeexpectancy
+2004,High medals,Very Low depression,Very Low anxiety,Medium lifeexpectancy
+2004,High medals,Low depression,Low anxiety,Very High lifeexpectancy
+2004,Low medals,Very High depression,High anxiety,Very Low lifeexpectancy
+2004,Very High medals,Very High depression,Very Low anxiety,Very Low lifeexpectancy
+2004,Medium medals,Low depression,Very Low anxiety,Very Low lifeexpectancy
+2004,Very Low medals,Medium depression,Medium anxiety,Low lifeexpectancy
+2004,Very Low medals,Very High depression,Very Low anxiety,Very Low lifeexpectancy
+2004,Very High medals,Very High depression,High anxiety,Very High lifeexpectancy
+2004,Medium medals,Very Low depression,Medium anxiety,Low lifeexpectancy
+2004,Very Low medals,High depression,High anxiety,Low lifeexpectancy
+2004,Medium medals,Very Low depression,Medium anxiety,High lifeexpectancy
+2004,Medium medals,Medium depression,Very Low anxiety,Very Low lifeexpectancy
+2004,Medium medals,Very High depression,Very High anxiety,High lifeexpectancy
+2004,Very High medals,Very Low depression,Very Low anxiety,Low lifeexpectancy
+2004,Very High medals,Medium depression,Very High anxiety,High lifeexpectancy
+2004,Low medals,Low depression,Very Low anxiety,Very Low lifeexpectancy
+2004,Low medals,Medium depression,High anxiety,High lifeexpectancy
+2004,Very Low medals,High depression,High anxiety,Low lifeexpectancy
+2004,Very High medals,High depression,Medium anxiety,High lifeexpectancy
+2004,High medals,High depression,High anxiety,Very High lifeexpectancy
+2004,Medium medals,Very Low depression,Very Low anxiety,Very Low lifeexpectancy
+2004,High medals,Very High depression,High anxiety,High lifeexpectancy
+2004,Low medals,Very High depression,Very High anxiety,High lifeexpectancy
+2004,High medals,Low depression,Low anxiety,Low lifeexpectancy
+2004,Very Low medals,Medium depression,Medium anxiety,Medium lifeexpectancy
+2004,High medals,High depression,Low anxiety,Low lifeexpectancy
+2004,Very Low medals,Very High depression,Very Low anxiety,Very High lifeexpectancy
+2004,Medium medals,Low depression,Very High anxiety,High lifeexpectancy
+2004,Medium medals,Low depression,Very High anxiety,Very High lifeexpectancy
+2004,Very Low medals,Medium depression,Very High anxiety,Low lifeexpectancy
+2004,High medals,Very Low depression,Low anxiety,Low lifeexpectancy
+2004,High medals,Medium depression,High anxiety,High lifeexpectancy
+2004,Medium medals,Very Low depression,Low anxiety,Medium lifeexpectancy
+2004,Very Low medals,Very High depression,Medium anxiety,High lifeexpectancy
+2004,Medium medals,Low depression,Very High anxiety,Very High lifeexpectancy
+2004,Medium medals,Medium depression,Very High anxiety,High lifeexpectancy
+2004,Medium medals,Low depression,Low anxiety,Medium lifeexpectancy
+2004,Very Low medals,Very High depression,Low anxiety,Very Low lifeexpectancy
+2004,Medium medals,Low depression,Very Low anxiety,Low lifeexpectancy
+2004,Very Low medals,High depression,Very Low anxiety,Very Low lifeexpectancy
+2004,Medium medals,Low depression,Medium anxiety,Low lifeexpectancy
+2004,Low medals,High depression,Medium anxiety,Low lifeexpectancy
+2004,Medium medals,Medium depression,Low anxiety,High lifeexpectancy
+2004,Medium medals,High depression,Medium anxiety,Low lifeexpectancy
+2004,Very Low medals,High depression,Medium anxiety,Low lifeexpectancy
+2004,Low medals,Very High depression,Low anxiety,Low lifeexpectancy
+2004,Very Low medals,Low depression,Medium anxiety,Low lifeexpectancy
+2002,High medals,Very Low depression,Low anxiety,Low lifeexpectancy
+2002,Very High medals,Very High depression,Very High anxiety,High lifeexpectancy
+2002,High medals,Low depression,Very Low anxiety,Very Low lifeexpectancy
+2002,Very Low medals,Very Low depression,Very Low anxiety,Very High lifeexpectancy
+2002,Very High medals,Medium depression,Very High anxiety,High lifeexpectancy
+2002,Very Low medals,High depression,Medium anxiety,High lifeexpectancy
+2002,High medals,High depression,Very High anxiety,High lifeexpectancy
+2002,High medals,Medium depression,High anxiety,Very High lifeexpectancy
+2002,Medium medals,Very Low depression,Low anxiety,High lifeexpectancy
+2002,Very Low medals,Very Low depression,Very Low anxiety,Medium lifeexpectancy
+2002,High medals,Medium depression,Low anxiety,High lifeexpectancy
+2002,Very Low medals,Very High depression,High anxiety,Very High lifeexpectancy
+2002,Medium medals,Medium depression,Very High anxiety,High lifeexpectancy
+2002,Medium medals,High depression,High anxiety,Very High lifeexpectancy
+2002,Very Low medals,High depression,Low anxiety,Very Low lifeexpectancy
+2002,High medals,Low depression,Very High anxiety,High lifeexpectancy
+2002,High medals,Medium depression,Very High anxiety,Very High lifeexpectancy
+2002,Low medals,Low depression,Low anxiety,Low lifeexpectancy
+2002,Medium medals,Very High depression,Low anxiety,High lifeexpectancy
+2002,Very High medals,Low depression,Very High anxiety,High lifeexpectancy
+2002,Medium medals,Low depression,Low anxiety,Medium lifeexpectancy
+2002,Very Low medals,Medium depression,Low anxiety,Medium lifeexpectancy
+2002,Low medals,Very High depression,Low anxiety,Low lifeexpectancy
+2000,Very Low medals,Very High depression,Very Low anxiety,Very Low lifeexpectancy
+2000,Very High medals,Very Low depression,Medium anxiety,Low lifeexpectancy
+2000,Very High medals,Very High depression,Very High anxiety,Medium lifeexpectancy
+2000,Medium medals,Very Low depression,Low anxiety,Very Low lifeexpectancy
+2000,Low medals,Very High depression,Very Low anxiety,Very Low lifeexpectancy
+2000,High medals,Very High depression,Very High anxiety,Low lifeexpectancy
+2000,Very High medals,Low depression,Very Low anxiety,Very Low lifeexpectancy
+2000,Medium medals,Very High depression,Low anxiety,Very Low lifeexpectancy
+2000,Medium medals,Low depression,Low anxiety,Medium lifeexpectancy
+2000,High medals,Very Low depression,Very Low anxiety,Very High lifeexpectancy
+2000,Very Low medals,Very Low depression,Very Low anxiety,Low lifeexpectancy
+2000,Medium medals,Very High depression,Very High anxiety,Low lifeexpectancy
+2000,Medium medals,High depression,Medium anxiety,Low lifeexpectancy
+2000,Very High medals,Low depression,Very High anxiety,High lifeexpectancy
+2000,Low medals,Very Low depression,Low anxiety,Low lifeexpectancy
+2000,Very High medals,High depression,Medium anxiety,High lifeexpectancy
+2000,Very High medals,High depression,Very High anxiety,High lifeexpectancy
+2000,Medium medals,High depression,Medium anxiety,Very Low lifeexpectancy
+2000,Very High medals,Medium depression,High anxiety,High lifeexpectancy
+2000,Medium medals,Very High depression,Low anxiety,Very Low lifeexpectancy
+2000,Very Low medals,Very Low depression,High anxiety,Low lifeexpectancy
+2000,Very High medals,Very Low depression,Low anxiety,Medium lifeexpectancy
+2000,High medals,Medium depression,Medium anxiety,High lifeexpectancy
+2000,Medium medals,High depression,High anxiety,Low lifeexpectancy
+2000,Medium medals,Very Low depression,High anxiety,Medium lifeexpectancy
+2000,High medals,Very Low depression,Very Low anxiety,Medium lifeexpectancy
+2000,High medals,Medium depression,Low anxiety,High lifeexpectancy
+2000,Medium medals,Very High depression,High anxiety,Very Low lifeexpectancy
+2000,Very High medals,Very High depression,Very Low anxiety,Very Low lifeexpectancy
+2000,Very Low medals,High depression,High anxiety,Low lifeexpectancy
+2000,Medium medals,Low depression,Very Low anxiety,Very Low lifeexpectancy
+2000,Very Low medals,Very High depression,Medium anxiety,Very Low lifeexpectancy
+2000,Very Low medals,Very High depression,Very Low anxiety,Very Low lifeexpectancy
+2000,Very High medals,Very High depression,High anxiety,High lifeexpectancy
+2000,Medium medals,Very Low depression,Medium anxiety,Very Low lifeexpectancy
+2000,Medium medals,Very Low depression,Medium anxiety,Medium lifeexpectancy
+2000,Very Low medals,Low depression,Medium anxiety,Low lifeexpectancy
+2000,Medium medals,Medium depression,Very Low anxiety,Very Low lifeexpectancy
+2000,Very Low medals,Very High depression,High anxiety,High lifeexpectancy
+2000,Very High medals,Very Low depression,Very Low anxiety,Low lifeexpectancy
+2000,Very High medals,Medium depression,Very High anxiety,High lifeexpectancy
+2000,Medium medals,Medium depression,High anxiety,High lifeexpectancy
+2000,Very High medals,Very High depression,Medium anxiety,Medium lifeexpectancy
+2000,High medals,High depression,High anxiety,High lifeexpectancy
+2000,Low medals,Very Low depression,Very Low anxiety,Very Low lifeexpectancy
+2000,High medals,Very High depression,Very High anxiety,High lifeexpectancy
+2000,Very Low medals,Very High depression,Very High anxiety,High lifeexpectancy
+2000,Very High medals,Low depression,Low anxiety,Low lifeexpectancy
+2000,High medals,High depression,Low anxiety,Very Low lifeexpectancy
+2000,Very Low medals,Very High depression,Very Low anxiety,High lifeexpectancy
+2000,Medium medals,Medium depression,Very High anxiety,High lifeexpectancy
+2000,High medals,High depression,Very High anxiety,High lifeexpectancy
+2000,Very Low medals,Medium depression,Very Low anxiety,Very Low lifeexpectancy
+2000,High medals,Low depression,Low anxiety,Low lifeexpectancy
+2000,Medium medals,Medium depression,High anxiety,Medium lifeexpectancy
+2000,Medium medals,Low depression,Low anxiety,Low lifeexpectancy
+2000,Medium medals,Very High depression,Low anxiety,High lifeexpectancy
+2000,High medals,Low depression,Very High anxiety,High lifeexpectancy
+2000,Medium medals,Medium depression,Very High anxiety,High lifeexpectancy
+2000,Very Low medals,Low depression,Medium anxiety,High lifeexpectancy
+2000,Very Low medals,High depression,Very High anxiety,Medium lifeexpectancy
+2000,Very Low medals,High depression,Medium anxiety,Medium lifeexpectancy
+2000,Very Low medals,Low depression,Low anxiety,Medium lifeexpectancy
+2000,Medium medals,Low depression,Very Low anxiety,Low lifeexpectancy
+2000,Very Low medals,Very Low depression,High anxiety,Medium lifeexpectancy
+2000,Very Low medals,Medium depression,Medium anxiety,Very Low lifeexpectancy
+2000,High medals,Low depression,Medium anxiety,Low lifeexpectancy
+2000,Very Low medals,Very Low depression,Very Low anxiety,Low lifeexpectancy
+2000,Very Low medals,Very High depression,Medium anxiety,Medium lifeexpectancy
+2000,Medium medals,Very High depression,Medium anxiety,Low lifeexpectancy
+2000,Low medals,Medium depression,Low anxiety,Medium lifeexpectancy
+2000,Very Low medals,Very Low depression,Low anxiety,Low lifeexpectancy
+2000,Low medals,High depression,Medium anxiety,Low lifeexpectancy
+2000,Very Low medals,High depression,Medium anxiety,Very Low lifeexpectancy
+2000,Low medals,Very High depression,Low anxiety,Low lifeexpectancy
+2000,Low medals,Low depression,Medium anxiety,Low lifeexpectancy
+2000,Very Low medals,Low depression,High anxiety,Very High lifeexpectancy
+2000,Very Low medals,Low depression,Medium anxiety,Medium lifeexpectancy
+1998,Medium medals,Low depression,Medium anxiety,Low lifeexpectancy
+1998,High medals,Very High depression,Very High anxiety,Medium lifeexpectancy
+1998,Very High medals,Low depression,Very Low anxiety,Very Low lifeexpectancy
+1998,High medals,Very Low depression,Very Low anxiety,Very High lifeexpectancy
+1998,Very High medals,Low depression,Very High anxiety,High lifeexpectancy
+1998,Very Low medals,Very High depression,Medium anxiety,High lifeexpectancy
+1998,High medals,High depression,Very High anxiety,High lifeexpectancy
+1998,High medals,High depression,High anxiety,High lifeexpectancy
+1998,Medium medals,Very Low depression,Low anxiety,Medium lifeexpectancy
+1998,High medals,Medium depression,Medium anxiety,High lifeexpectancy
+1998,Very Low medals,Very High depression,Very Low anxiety,Very Low lifeexpectancy
+1998,Very Low medals,Very High depression,High anxiety,High lifeexpectancy
+1998,Very Low medals,Medium depression,Very Low anxiety,Very Low lifeexpectancy
+1998,High medals,Medium depression,Very High anxiety,High lifeexpectancy
+1998,Very Low medals,Low depression,High anxiety,High lifeexpectancy
+1998,Low medals,High depression,High anxiety,High lifeexpectancy
+1998,Very Low medals,High depression,Low anxiety,Very Low lifeexpectancy
+1998,High medals,Medium depression,Very High anxiety,High lifeexpectancy
+1998,Medium medals,High depression,Very High anxiety,High lifeexpectancy
+1998,Very Low medals,Low depression,Low anxiety,Low lifeexpectancy
+1998,Very Low medals,High depression,High anxiety,Medium lifeexpectancy
+1998,High medals,Very High depression,Medium anxiety,High lifeexpectancy
+1998,Very High medals,Low depression,Very High anxiety,High lifeexpectancy
+1996,Very Low medals,Very High depression,Very Low anxiety,Very Low lifeexpectancy
+1996,Very High medals,Low depression,Low anxiety,Low lifeexpectancy
+1996,Very High medals,High depression,High anxiety,Medium lifeexpectancy
+1996,Medium medals,Very Low depression,Low anxiety,Very Low lifeexpectancy
+1996,Medium medals,High depression,Very Low anxiety,Very Low lifeexpectancy
+1996,High medals,High depression,Very High anxiety,Very Low lifeexpectancy
+1996,Very High medals,Low depression,Very Low anxiety,Very Low lifeexpectancy
+1996,Low medals,Very High depression,Low anxiety,Very Low lifeexpectancy
+1996,Very Low medals,Low depression,Very Low anxiety,Low lifeexpectancy
+1996,High medals,Very Low depression,Very Low anxiety,Very High lifeexpectancy
+1996,Very Low medals,Very Low depression,High anxiety,Very Low lifeexpectancy
+1996,Low medals,Very High depression,Very High anxiety,Very Low lifeexpectancy
+1996,Medium medals,High depression,Medium anxiety,Low lifeexpectancy
+1996,Very High medals,Low depression,Very High anxiety,Medium lifeexpectancy
+1996,Very Low medals,Very Low depression,Very Low anxiety,Low lifeexpectancy
+1996,High medals,High depression,Medium anxiety,High lifeexpectancy
+1996,Very High medals,High depression,Very High anxiety,High lifeexpectancy
+1996,Medium medals,High depression,Medium anxiety,Very Low lifeexpectancy
+1996,Very High medals,High depression,High anxiety,High lifeexpectancy
+1996,Medium medals,Very High depression,Low anxiety,Very Low lifeexpectancy
+1996,Very High medals,Very Low depression,Low anxiety,Medium lifeexpectancy
+1996,Very Low medals,Very High depression,Medium anxiety,Very Low lifeexpectancy
+1996,Very High medals,Medium depression,High anxiety,High lifeexpectancy
+1996,Low medals,High depression,High anxiety,Very Low lifeexpectancy
+1996,Low medals,Very Low depression,High anxiety,Low lifeexpectancy
+1996,High medals,Very Low depression,Very Low anxiety,Low lifeexpectancy
+1996,Very High medals,Medium depression,Medium anxiety,High lifeexpectancy
+1996,Very Low medals,Very High depression,High anxiety,Very Low lifeexpectancy
+1996,Very High medals,Very High depression,Very Low anxiety,Very Low lifeexpectancy
+1996,Very Low medals,Low depression,Very Low anxiety,Very Low lifeexpectancy
+1996,Very Low medals,Very High depression,Medium anxiety,Very Low lifeexpectancy
+1996,Low medals,Low depression,High anxiety,Low lifeexpectancy
+1996,Very High medals,Very High depression,High anxiety,High lifeexpectancy
+1996,Medium medals,Very Low depression,Medium anxiety,Very Low lifeexpectancy
+1996,Very Low medals,High depression,High anxiety,Low lifeexpectancy
+1996,Very Low medals,Very Low depression,Medium anxiety,Medium lifeexpectancy
+1996,Very Low medals,High depression,Medium anxiety,Very Low lifeexpectancy
+1996,High medals,Medium depression,Very Low anxiety,Very Low lifeexpectancy
+1996,Very High medals,Very Low depression,Very Low anxiety,Very Low lifeexpectancy
+1996,Very Low medals,Medium depression,High anxiety,Low lifeexpectancy
+1996,Very High medals,Medium depression,Very High anxiety,High lifeexpectancy
+1996,Very Low medals,Very High depression,Low anxiety,Very Low lifeexpectancy
+1996,Very Low medals,Very High depression,High anxiety,Low lifeexpectancy
+1996,Medium medals,Low depression,High anxiety,High lifeexpectancy
+1996,Very High medals,Very High depression,Medium anxiety,Medium lifeexpectancy
+1996,High medals,High depression,High anxiety,High lifeexpectancy
+1996,Very Low medals,Very Low depression,Very Low anxiety,Very Low lifeexpectancy
+1996,Medium medals,Very High depression,Very High anxiety,High lifeexpectancy
+1996,Low medals,Very High depression,Very High anxiety,Medium lifeexpectancy
+1996,Very High medals,Low depression,Low anxiety,Low lifeexpectancy
+1996,High medals,High depression,Low anxiety,Very Low lifeexpectancy
+1996,Very Low medals,Very High depression,Medium anxiety,High lifeexpectancy
+1996,Low medals,Medium depression,Very High anxiety,High lifeexpectancy
+1996,Medium medals,High depression,Very High anxiety,High lifeexpectancy
+1996,High medals,Low depression,Low anxiety,Low lifeexpectancy
+1996,Medium medals,High depression,High anxiety,Medium lifeexpectancy
+1996,Low medals,Low depression,Low anxiety,Low lifeexpectancy
+1996,Medium medals,Very High depression,Medium anxiety,High lifeexpectancy
+1996,Medium medals,Low depression,Very High anxiety,High lifeexpectancy
+1996,Medium medals,Medium depression,Very High anxiety,Medium lifeexpectancy
+1996,Very Low medals,Low depression,Medium anxiety,Medium lifeexpectancy
+1996,Medium medals,High depression,Very High anxiety,Medium lifeexpectancy
+1996,Very Low medals,Medium depression,Low anxiety,Medium lifeexpectancy
+1996,Very Low medals,Low depression,Very Low anxiety,Very Low lifeexpectancy
+1996,Very Low medals,High depression,Very Low anxiety,Very Low lifeexpectancy
+1996,Low medals,Medium depression,Medium anxiety,Very Low lifeexpectancy
+1996,Very Low medals,Low depression,High anxiety,Medium lifeexpectancy
+1996,Medium medals,Low depression,Medium anxiety,Low lifeexpectancy
+1996,Very Low medals,Very Low depression,Very Low anxiety,Low lifeexpectancy
+1996,Very Low medals,Very High depression,Medium anxiety,Low lifeexpectancy
+1996,Very Low medals,Medium depression,Low anxiety,Very Low lifeexpectancy
+1996,Very Low medals,Medium depression,Low anxiety,Medium lifeexpectancy
+1996,Very Low medals,High depression,Medium anxiety,Very Low lifeexpectancy
+1996,Very Low medals,High depression,Medium anxiety,Very Low lifeexpectancy
+1996,Very Low medals,Low depression,Medium anxiety,Low lifeexpectancy
+1996,Very Low medals,Very Low depression,Medium anxiety,Very Low lifeexpectancy
+1994,Low medals,Low depression,Low anxiety,Low lifeexpectancy
+1994,High medals,High depression,High anxiety,Medium lifeexpectancy
+1994,Very High medals,Low depression,Very Low anxiety,Very Low lifeexpectancy
+1994,Medium medals,Very Low depression,Very Low anxiety,High lifeexpectancy
+1994,Very High medals,Low depression,Very High anxiety,Medium lifeexpectancy
+1994,Low medals,Very High depression,Medium anxiety,Medium lifeexpectancy
+1994,Medium medals,High depression,Very High anxiety,High lifeexpectancy
+1994,Very High medals,High depression,High anxiety,High lifeexpectancy
+1994,Medium medals,Very Low depression,Very Low anxiety,Medium lifeexpectancy
+1994,High medals,Medium depression,High anxiety,High lifeexpectancy
+1994,Very Low medals,Very High depression,Very Low anxiety,Very Low lifeexpectancy
+1994,Very Low medals,Low depression,Very Low anxiety,Very Low lifeexpectancy
+1994,Very Low medals,Very High depression,High anxiety,High lifeexpectancy
+1994,Low medals,Medium depression,Very Low anxiety,Very Low lifeexpectancy
+1994,Medium medals,Medium depression,Very High anxiety,High lifeexpectancy
+1994,Low medals,High depression,High anxiety,High lifeexpectancy
+1994,Very Low medals,High depression,Low anxiety,Very Low lifeexpectancy
+1994,High medals,Medium depression,Very High anxiety,Medium lifeexpectancy
+1994,High medals,Very High depression,Very High anxiety,High lifeexpectancy
+1994,Medium medals,Very High depression,Medium anxiety,Medium lifeexpectancy
+1994,Very High medals,Low depression,Very High anxiety,High lifeexpectancy
+1994,Low medals,Medium depression,Low anxiety,Medium lifeexpectancy
+1992,Very High medals,Low depression,Low anxiety,Very Low lifeexpectancy
+1992,Very High medals,Medium depression,High anxiety,Medium lifeexpectancy
+1992,Medium medals,Very Low depression,Low anxiety,Very Low lifeexpectancy
+1992,Very Low medals,High depression,Low anxiety,Very Low lifeexpectancy
+1992,Medium medals,High depression,Very Low anxiety,Very Low lifeexpectancy
+1992,Low medals,High depression,Very High anxiety,Very Low lifeexpectancy
+1992,Low medals,Very High depression,Low anxiety,Very Low lifeexpectancy
+1992,Very Low medals,Low depression,Very Low anxiety,Low lifeexpectancy
+1992,Very High medals,Very Low depression,Very Low anxiety,High lifeexpectancy
+1992,Very Low medals,Low depression,High anxiety,Very Low lifeexpectancy
+1992,Low medals,Very High depression,Very High anxiety,Very Low lifeexpectancy
+1992,Medium medals,High depression,Medium anxiety,Very Low lifeexpectancy
+1992,Very High medals,Low depression,Very High anxiety,Medium lifeexpectancy
+1992,Very Low medals,Very Low depression,Very Low anxiety,Low lifeexpectancy
+1992,Very High medals,Very High depression,Medium anxiety,Medium lifeexpectancy
+1992,Very High medals,Very High depression,Very High anxiety,High lifeexpectancy
+1992,Low medals,High depression,Medium anxiety,Very Low lifeexpectancy
+1992,Very High medals,Medium depression,Very High anxiety,High lifeexpectancy
+1992,Medium medals,Very High depression,Low anxiety,Very Low lifeexpectancy
+1992,Very Low medals,Very Low depression,High anxiety,Very Low lifeexpectancy
+1992,Very High medals,Very Low depression,Very Low anxiety,Low lifeexpectancy
+1992,Very High medals,High depression,High anxiety,High lifeexpectancy
+1992,Very Low medals,High depression,High anxiety,Very Low lifeexpectancy
+1992,Very Low medals,Very Low depression,High anxiety,Low lifeexpectancy
+1992,Very High medals,Very Low depression,Very Low anxiety,Low lifeexpectancy
+1992,Very High medals,Low depression,High anxiety,High lifeexpectancy
+1992,Low medals,Very High depression,High anxiety,Very Low lifeexpectancy
+1992,Very Low medals,High depression,Very Low anxiety,Very Low lifeexpectancy
+1992,Very Low medals,Very Low depression,High anxiety,Very Low lifeexpectancy
+1992,Very Low medals,Low depression,High anxiety,Low lifeexpectancy
+1992,Very High medals,Very High depression,High anxiety,High lifeexpectancy
+1992,High medals,Very Low depression,Medium anxiety,Low lifeexpectancy
+1992,Very Low medals,Very Low depression,Medium anxiety,Medium lifeexpectancy
+1992,High medals,Very Low depression,Very Low anxiety,Low lifeexpectancy
+1992,Very High medals,Medium depression,Very High anxiety,High lifeexpectancy
+1992,Low medals,Low depression,High anxiety,Medium lifeexpectancy
+1992,Very High medals,Very High depression,Medium anxiety,Medium lifeexpectancy
+1992,High medals,High depression,High anxiety,High lifeexpectancy
+1992,Very Low medals,Very High depression,Very High anxiety,High lifeexpectancy
+1992,Very High medals,Medium depression,Low anxiety,Very Low lifeexpectancy
+1992,Very Low medals,Very High depression,Medium anxiety,High lifeexpectancy
+1992,Very High medals,Medium depression,Very High anxiety,Medium lifeexpectancy
+1992,Medium medals,Very High depression,Very High anxiety,High lifeexpectancy
+1992,High medals,Low depression,Low anxiety,Low lifeexpectancy
+1992,Medium medals,Very High depression,High anxiety,Medium lifeexpectancy
+1992,High medals,Very High depression,Medium anxiety,Medium lifeexpectancy
+1992,Very High medals,Low depression,Very High anxiety,High lifeexpectancy
+1992,High medals,Medium depression,Very High anxiety,Medium lifeexpectancy
+1992,Very Low medals,High depression,Very High anxiety,Medium lifeexpectancy
+1992,Medium medals,Medium depression,Low anxiety,Low lifeexpectancy
+1992,Very Low medals,High depression,Very Low anxiety,Very Low lifeexpectancy
+1992,Very Low medals,Low depression,Medium anxiety,Medium lifeexpectancy
+1992,Medium medals,Low depression,Medium anxiety,Low lifeexpectancy
+1992,Very Low medals,High depression,Medium anxiety,Medium lifeexpectancy
+1992,Very Low medals,High depression,Medium anxiety,Low lifeexpectancy
+1992,Very Low medals,Medium depression,Low anxiety,Very Low lifeexpectancy
+1992,Low medals,Medium depression,Low anxiety,Medium lifeexpectancy
+1992,Low medals,Very High depression,Medium anxiety,Very Low lifeexpectancy
+1992,Low medals,Very High depression,Low anxiety,Low lifeexpectancy
+1992,Very Low medals,Medium depression,High anxiety,Medium lifeexpectancy
+1992,Very Low medals,Very High depression,Medium anxiety,Very Low lifeexpectancy
+1992,Very Low medals,Low depression,Medium anxiety,Low lifeexpectancy
