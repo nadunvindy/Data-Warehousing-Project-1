@@ -1,0 +1,709 @@
+year,country,total,depression,anxiety,lifeexpectancy
+2018,China,High ,Very Low Depression,Very Low anxiety,High lifeExp
+2018,United States,Very High ,Very High Depression,High anxiety,High lifeExp
+2018,Japan,High ,Very Low Depression,Very Low anxiety,Very High lifeExp
+2018,Germany,Very High ,Medium Depression,Very High anxiety,Very High lifeExp
+2018,United Kingdom,Medium ,High Depression,High anxiety,Very High lifeExp
+2018,France,High ,Medium Depression,Very High anxiety,Very High lifeExp
+2018,Italy,High ,Medium Depression,High anxiety,Very High lifeExp
+2018,South Korea,High ,Very Low Depression,Very Low anxiety,Very High lifeExp
+2018,Spain,Very Low ,Very High Depression,High anxiety,Very High lifeExp
+2018,Poland,Very Low ,Very Low Depression,Very Low anxiety,High lifeExp
+2018,Canada,Very High ,Low Depression,Medium anxiety,Very High lifeExp
+2018,Ukraine,Very Low ,Medium Depression,Very Low anxiety,Medium lifeExp
+2018,Australia,Low ,Very High Depression,Very High anxiety,Very High lifeExp
+2018,Kazakhstan,Very Low ,Medium Depression,Very Low anxiety,Low lifeExp
+2018,Netherlands,Very High ,Medium Depression,Very High anxiety,Very High lifeExp
+2018,Belgium,Very Low ,Medium Depression,High anxiety,Very High lifeExp
+2018,Sweden,High ,High Depression,High anxiety,Very High lifeExp
+2018,Hungary,Very Low ,Very Low Depression,Low anxiety,Medium lifeExp
+2018,Belarus,Low ,Medium Depression,Low anxiety,Medium lifeExp
+2018,Austria,High ,Low Depression,Very High anxiety,Very High lifeExp
+2018,Switzerland,High ,Medium Depression,Very High anxiety,Very High lifeExp
+2018,Slovakia,Low ,Very Low Depression,Low anxiety,High lifeExp
+2018,Finland,Medium ,High Depression,Medium anxiety,Very High lifeExp
+2018,Norway,Very High ,Low Depression,Very High anxiety,Very High lifeExp
+2018,New Zealand,Very Low ,Medium Depression,Very High anxiety,Very High lifeExp
+2018,Slovenia,Very Low ,Low Depression,Low anxiety,Very High lifeExp
+2018,Latvia,Very Low ,Medium Depression,Medium anxiety,Medium lifeExp
+2016,India,Very Low ,Medium Depression,Very Low anxiety,Low lifeExp
+2016,China,Very High ,Very Low Depression,Very Low anxiety,High lifeExp
+2016,United States,Very High ,Very High Depression,High anxiety,High lifeExp
+2016,Indonesia,Medium ,Very Low Depression,Low anxiety,Low lifeExp
+2016,Nigeria,Very Low ,Medium Depression,Very Low anxiety,Very Low lifeExp
+2016,Brazil,Very High ,High Depression,Very High anxiety,Medium lifeExp
+2016,Russia,Very High ,Low Depression,Very Low anxiety,Low lifeExp
+2016,Ethiopia,Medium ,Very High Depression,Low anxiety,Very Low lifeExp
+2016,Mexico,Medium ,Medium Depression,Low anxiety,Medium lifeExp
+2016,Japan,Very High ,Very Low Depression,Very Low anxiety,Very High lifeExp
+2016,Philippines,Very Low ,Very Low Depression,High anxiety,Low lifeExp
+2016,Egypt,Low ,High Depression,High anxiety,Low lifeExp
+2016,Vietnam,Very Low ,Very Low Depression,Very Low anxiety,Medium lifeExp
+2016,Iran,Medium ,Very High Depression,Very High anxiety,Medium lifeExp
+2016,Turkey,Medium ,High Depression,High anxiety,Medium lifeExp
+2016,Germany,Very High ,Medium Depression,Very High anxiety,Very High lifeExp
+2016,Thailand,Medium ,Very Low Depression,Low anxiety,High lifeExp
+2016,United Kingdom,Very High ,High Depression,High anxiety,Very High lifeExp
+2016,France,Very High ,Medium Depression,Very High anxiety,Very High lifeExp
+2016,South Africa,High ,High Depression,Medium anxiety,Very Low lifeExp
+2016,Italy,Very High ,Medium Depression,Very High anxiety,Very High lifeExp
+2016,Kenya,High ,Very High Depression,Low anxiety,Very Low lifeExp
+2016,Colombia,Medium ,Very Low Depression,Medium anxiety,Medium lifeExp
+2016,South Korea,Very High ,Very Low Depression,Low anxiety,Very High lifeExp
+2016,Spain,High ,Very High Depression,High anxiety,Very High lifeExp
+2016,Algeria,Very Low ,High Depression,High anxiety,Medium lifeExp
+2016,Argentina,Medium ,Very Low Depression,High anxiety,Medium lifeExp
+2016,Poland,High ,Very Low Depression,Very Low anxiety,High lifeExp
+2016,Canada,Very High ,Low Depression,Medium anxiety,Very High lifeExp
+2016,Morocco,Very Low ,Very High Depression,High anxiety,Low lifeExp
+2016,Ukraine,High ,Medium Depression,Very Low anxiety,Medium lifeExp
+2016,Uzbekistan,High ,Low Depression,Very Low anxiety,Low lifeExp
+2016,Malaysia,Medium ,Medium Depression,High anxiety,Medium lifeExp
+2016,Venezuela,Low ,Low Depression,Medium anxiety,Low lifeExp
+2016,Niger,Very Low ,High Depression,Very Low anxiety,Very Low lifeExp
+2016,Australia,Very High ,Very High Depression,Very High anxiety,Very High lifeExp
+2016,North Korea,Medium ,Very Low Depression,Medium anxiety,Low lifeExp
+2016,Taiwan,Low ,Very Low Depression,Medium anxiety,High lifeExp
+2016,Kazakhstan,High ,Medium Depression,Very Low anxiety,Low lifeExp
+2016,Romania,Medium ,Very Low Depression,Very Low anxiety,Medium lifeExp
+2016,Netherlands,Very High ,Medium Depression,Very High anxiety,Very High lifeExp
+2016,Burundi,Very Low ,Very High Depression,Low anxiety,Very Low lifeExp
+2016,Tunisia,Low ,Very High Depression,High anxiety,Medium lifeExp
+2016,Belgium,Medium ,Medium Depression,High anxiety,Very High lifeExp
+2016,Dominican Republic,Very Low ,Medium Depression,High anxiety,Low lifeExp
+2016,Jordan,Very Low ,High Depression,High anxiety,Medium lifeExp
+2016,Cuba,High ,Medium Depression,Medium anxiety,High lifeExp
+2016,Sweden,High ,High Depression,High anxiety,Very High lifeExp
+2016,Azerbaijan,High ,Very Low Depression,Very Low anxiety,Low lifeExp
+2016,Tajikistan,Very Low ,Very Low Depression,Very Low anxiety,Low lifeExp
+2016,Greece,Medium ,Very High Depression,Very High anxiety,Very High lifeExp
+2016,Portugal,Very Low ,Very High Depression,Very High anxiety,Very High lifeExp
+2016,Hungary,High ,Very Low Depression,Low anxiety,Medium lifeExp
+2016,United Arab Emirates,Very Low ,Medium Depression,Medium anxiety,High lifeExp
+2016,Belarus,High ,Medium Depression,Low anxiety,Medium lifeExp
+2016,Israel,Very Low ,High Depression,Medium anxiety,Very High lifeExp
+2016,Austria,Very Low ,Low Depression,Very High anxiety,Very High lifeExp
+2016,Switzerland,Medium ,Medium Depression,Very High anxiety,Very High lifeExp
+2016,Serbia,High ,Very Low Depression,Low anxiety,Medium lifeExp
+2016,Bulgaria,Low ,Very Low Depression,Low anxiety,Medium lifeExp
+2016,Singapore,Very Low ,Very Low Depression,Very Low anxiety,Very High lifeExp
+2016,Denmark,High ,Medium Depression,High anxiety,Very High lifeExp
+2016,Slovakia,Medium ,Very Low Depression,Low anxiety,High lifeExp
+2016,Finland,Very Low ,High Depression,Medium anxiety,Very High lifeExp
+2016,Norway,Medium ,Low Depression,Very High anxiety,Very High lifeExp
+2016,New Zealand,Very High ,Medium Depression,Very High anxiety,Very High lifeExp
+2016,Ireland,Low ,High Depression,Very High anxiety,Very High lifeExp
+2016,Croatia,High ,Low Depression,Low anxiety,High lifeExp
+2016,Georgia,Medium ,Low Depression,Very Low anxiety,Medium lifeExp
+2016,Mongolia,Very Low ,High Depression,Very Low anxiety,Low lifeExp
+2016,Puerto Rico,Very Low ,Low Depression,High anxiety,Very High lifeExp
+2016,Jamaica,High ,Low Depression,Medium anxiety,Low lifeExp
+2016,Armenia,Medium ,Low Depression,Very Low anxiety,Medium lifeExp
+2016,Qatar,Very Low ,High Depression,Medium anxiety,Very High lifeExp
+2016,Lithuania,Medium ,High Depression,Medium anxiety,Medium lifeExp
+2016,Slovenia,Medium ,Low Depression,Low anxiety,Very High lifeExp
+2016,Trinidad and Tobago,Very Low ,High Depression,Medium anxiety,Medium lifeExp
+2016,Bahrain,Very Low ,Very High Depression,High anxiety,High lifeExp
+2016,Estonia,Very Low ,Medium Depression,Low anxiety,High lifeExp
+2016,Fiji,Very Low ,Very Low Depression,Medium anxiety,Very Low lifeExp
+2016,Bahamas,Very Low ,Low Depression,Medium anxiety,Low lifeExp
+2016,Grenada,Very Low ,Low Depression,Medium anxiety,Medium lifeExp
+2014,China,High ,Very Low Depression,Very Low anxiety,Medium lifeExp
+2014,United States,Very High ,Very High Depression,High anxiety,High lifeExp
+2014,Russia,Very High ,Low Depression,Very Low anxiety,Low lifeExp
+2014,Japan,Medium ,Very Low Depression,Very Low anxiety,Very High lifeExp
+2014,Germany,Very High ,Medium Depression,Very High anxiety,Very High lifeExp
+2014,United Kingdom,Medium ,High Depression,High anxiety,Very High lifeExp
+2014,France,High ,Medium Depression,Very High anxiety,Very High lifeExp
+2014,Italy,Medium ,Medium Depression,Very High anxiety,Very High lifeExp
+2014,South Korea,Medium ,Very Low Depression,Low anxiety,Very High lifeExp
+2014,Poland,Medium ,Very Low Depression,Very Low anxiety,High lifeExp
+2014,Canada,Very High ,Low Depression,Medium anxiety,Very High lifeExp
+2014,Ukraine,Very Low ,High Depression,Very Low anxiety,Low lifeExp
+2014,Australia,Low ,Very High Depression,High anxiety,Very High lifeExp
+2014,Kazakhstan,Very Low ,Medium Depression,Very Low anxiety,Low lifeExp
+2014,Netherlands,Very High ,Medium Depression,Very High anxiety,Very High lifeExp
+2014,Sweden,High ,High Depression,High anxiety,Very High lifeExp
+2014,Belarus,Medium ,Medium Depression,Low anxiety,Medium lifeExp
+2014,Austria,High ,Low Depression,Very High anxiety,Very High lifeExp
+2014,Switzerland,High ,Medium Depression,Very High anxiety,Very High lifeExp
+2014,Slovakia,Very Low ,Very Low Depression,Low anxiety,High lifeExp
+2014,Finland,Medium ,High Depression,Medium anxiety,Very High lifeExp
+2014,Norway,Very High ,Low Depression,Very High anxiety,Very High lifeExp
+2014,Croatia,Very Low ,Low Depression,Low anxiety,High lifeExp
+2014,Slovenia,Medium ,Low Depression,Low anxiety,Very High lifeExp
+2014,Latvia,Medium ,Medium Depression,Medium anxiety,Medium lifeExp
+2012,India,Medium ,Medium Depression,Very Low anxiety,Very Low lifeExp
+2012,China,Very High ,Very Low Depression,Very Low anxiety,Medium lifeExp
+2012,United States,Very High ,Very High Depression,High anxiety,High lifeExp
+2012,Indonesia,Low ,Very Low Depression,Low anxiety,Very Low lifeExp
+2012,Brazil,Very High ,High Depression,Very High anxiety,Medium lifeExp
+2012,Russia,Very High ,Low Depression,Very Low anxiety,Low lifeExp
+2012,Ethiopia,Medium ,Very High Depression,Low anxiety,Very Low lifeExp
+2012,Mexico,High ,Medium Depression,Low anxiety,Medium lifeExp
+2012,Japan,Very High ,Very Low Depression,Very Low anxiety,Very High lifeExp
+2012,Egypt,Medium ,Medium Depression,High anxiety,Low lifeExp
+2012,Iran,High ,Very High Depression,Very High anxiety,Medium lifeExp
+2012,Turkey,Low ,High Depression,High anxiety,Medium lifeExp
+2012,Germany,Very High ,Medium Depression,Very High anxiety,Very High lifeExp
+2012,Thailand,Medium ,Very Low Depression,Low anxiety,Medium lifeExp
+2012,United Kingdom,Very High ,High Depression,High anxiety,Very High lifeExp
+2012,France,Very High ,High Depression,Very High anxiety,Very High lifeExp
+2012,South Africa,Medium ,High Depression,Medium anxiety,Very Low lifeExp
+2012,Italy,Very High ,Medium Depression,High anxiety,Very High lifeExp
+2012,Kenya,High ,Very High Depression,Low anxiety,Very Low lifeExp
+2012,Colombia,High ,Very Low Depression,Medium anxiety,Medium lifeExp
+2012,South Korea,Very High ,Very Low Depression,Low anxiety,Very High lifeExp
+2012,Uganda,Very Low ,Very High Depression,Medium anxiety,Very Low lifeExp
+2012,Spain,Very High ,Very High Depression,High anxiety,Very High lifeExp
+2012,Algeria,Very Low ,High Depression,High anxiety,Medium lifeExp
+2012,Argentina,Medium ,Very Low Depression,High anxiety,Medium lifeExp
+2012,Afghanistan,Very Low ,Very High Depression,High anxiety,Very Low lifeExp
+2012,Poland,High ,Very Low Depression,Very Low anxiety,Medium lifeExp
+2012,Canada,Very High ,Low Depression,Medium anxiety,Very High lifeExp
+2012,Morocco,Very Low ,Very High Depression,High anxiety,Low lifeExp
+2012,Ukraine,High ,High Depression,Very Low anxiety,Low lifeExp
+2012,Saudi Arabia,Very Low ,High Depression,High anxiety,Medium lifeExp
+2012,Uzbekistan,Very Low ,Low Depression,Very Low anxiety,Low lifeExp
+2012,Malaysia,Very Low ,Medium Depression,High anxiety,Medium lifeExp
+2012,Venezuela,Very Low ,Low Depression,Medium anxiety,Low lifeExp
+2012,Cameroon,Very Low ,Very High Depression,Very Low anxiety,Very Low lifeExp
+2012,Australia,Very High ,Very High Depression,Very High anxiety,Very High lifeExp
+2012,North Korea,Medium ,Very Low Depression,Medium anxiety,Low lifeExp
+2012,Taiwan,Very Low ,Very Low Depression,Medium anxiety,High lifeExp
+2012,Kazakhstan,High ,Medium Depression,Very Low anxiety,Very Low lifeExp
+2012,Romania,Medium ,Very Low Depression,Very Low anxiety,Medium lifeExp
+2012,Guatemala,Very Low ,High Depression,Medium anxiety,Low lifeExp
+2012,Netherlands,Very High ,Medium Depression,Very High anxiety,Very High lifeExp
+2012,Tunisia,Low ,Very High Depression,High anxiety,Medium lifeExp
+2012,Belgium,Low ,Medium Depression,High anxiety,Very High lifeExp
+2012,Dominican Republic,Very Low ,High Depression,High anxiety,Low lifeExp
+2012,Cuba,High ,Medium Depression,Medium anxiety,High lifeExp
+2012,Sweden,High ,High Depression,High anxiety,Very High lifeExp
+2012,Azerbaijan,High ,Very Low Depression,Very Low anxiety,Low lifeExp
+2012,Tajikistan,Very Low ,Very Low Depression,Very Low anxiety,Very Low lifeExp
+2012,Greece,Low ,Very High Depression,Very High anxiety,Very High lifeExp
+2012,Portugal,Very Low ,Very High Depression,Very High anxiety,Very High lifeExp
+2012,Hungary,Very High ,Very Low Depression,Low anxiety,Medium lifeExp
+2012,Belarus,High ,High Depression,Low anxiety,Low lifeExp
+2012,Switzerland,Medium ,Medium Depression,Very High anxiety,Very High lifeExp
+2012,Serbia,Medium ,Very Low Depression,Low anxiety,Medium lifeExp
+2012,Bulgaria,Low ,Very Low Depression,Low anxiety,Medium lifeExp
+2012,Singapore,Very Low ,Very Low Depression,Very Low anxiety,Very High lifeExp
+2012,Denmark,High ,Medium Depression,High anxiety,Very High lifeExp
+2012,Slovakia,Medium ,Very Low Depression,Low anxiety,Medium lifeExp
+2012,Finland,Low ,Very High Depression,Medium anxiety,Very High lifeExp
+2012,Norway,Medium ,Low Depression,Very High anxiety,Very High lifeExp
+2012,New Zealand,High ,Medium Depression,Very High anxiety,Very High lifeExp
+2012,Ireland,Medium ,High Depression,Very High anxiety,Very High lifeExp
+2012,Kuwait,Very Low ,High Depression,High anxiety,High lifeExp
+2012,Croatia,Medium ,Low Depression,Low anxiety,High lifeExp
+2012,Georgia,Medium ,Low Depression,Very Low anxiety,Low lifeExp
+2012,Mongolia,Medium ,High Depression,Very Low anxiety,Very Low lifeExp
+2012,Puerto Rico,Very Low ,Low Depression,Medium anxiety,High lifeExp
+2012,Jamaica,High ,Low Depression,Medium anxiety,Low lifeExp
+2012,Armenia,Very Low ,Low Depression,Very Low anxiety,Low lifeExp
+2012,Qatar,Very Low ,High Depression,Medium anxiety,High lifeExp
+2012,Botswana,Very Low ,High Depression,Low anxiety,Very Low lifeExp
+2012,Lithuania,Medium ,High Depression,Medium anxiety,Medium lifeExp
+2012,Gabon,Very Low ,Very High Depression,Medium anxiety,Very Low lifeExp
+2012,Slovenia,Medium ,Low Depression,Low anxiety,Very High lifeExp
+2012,Latvia,Low ,Medium Depression,Medium anxiety,Medium lifeExp
+2012,Trinidad and Tobago,Medium ,Medium Depression,Medium anxiety,Medium lifeExp
+2012,Bahrain,Very Low ,Very High Depression,High anxiety,High lifeExp
+2012,Estonia,Very Low ,Medium Depression,Low anxiety,Medium lifeExp
+2012,Cyprus,Very Low ,Low Depression,Very High anxiety,Very High lifeExp
+2012,Montenegro,Very Low ,Very Low Depression,Medium anxiety,Medium lifeExp
+2012,Bahamas,Very Low ,Low Depression,Medium anxiety,Low lifeExp
+2012,Grenada,Very Low ,Low Depression,Medium anxiety,Medium lifeExp
+2010,China,High ,Very Low Depression,Low anxiety,Medium lifeExp
+2010,United States,Very High ,Very High Depression,Very High anxiety,High lifeExp
+2010,Russia,High ,Low Depression,Very Low anxiety,Low lifeExp
+2010,Japan,Medium ,Very Low Depression,Very Low anxiety,Very High lifeExp
+2010,Germany,Very High ,Medium Depression,Very High anxiety,Very High lifeExp
+2010,United Kingdom,Very Low ,High Depression,High anxiety,Very High lifeExp
+2010,France,High ,High Depression,Very High anxiety,Very High lifeExp
+2010,Italy,Medium ,Medium Depression,High anxiety,Very High lifeExp
+2010,South Korea,High ,Very Low Depression,Low anxiety,Very High lifeExp
+2010,Poland,Medium ,Very Low Depression,Very Low anxiety,Medium lifeExp
+2010,Canada,Very High ,Low Depression,Medium anxiety,Very High lifeExp
+2010,Australia,Low ,Very High Depression,Very High anxiety,Very High lifeExp
+2010,Kazakhstan,Very Low ,Medium Depression,Very Low anxiety,Very Low lifeExp
+2010,Netherlands,Medium ,Medium Depression,Very High anxiety,Very High lifeExp
+2010,Sweden,High ,High Depression,High anxiety,Very High lifeExp
+2010,Belarus,Low ,High Depression,Low anxiety,Low lifeExp
+2010,Austria,High ,Low Depression,Very High anxiety,Very High lifeExp
+2010,Switzerland,High ,Medium Depression,Very High anxiety,Very High lifeExp
+2010,Slovakia,Low ,Very Low Depression,Low anxiety,Medium lifeExp
+2010,Finland,Medium ,Very High Depression,Medium anxiety,Very High lifeExp
+2010,Norway,Very High ,Low Depression,Very High anxiety,Very High lifeExp
+2010,Croatia,Low ,Low Depression,Low anxiety,Medium lifeExp
+2010,Slovenia,Low ,Low Depression,Low anxiety,High lifeExp
+2010,Latvia,Low ,Medium Depression,Medium anxiety,Low lifeExp
+2010,Estonia,Very Low ,Medium Depression,Low anxiety,Medium lifeExp
+2008,India,Low ,High Depression,Very Low anxiety,Very Low lifeExp
+2008,China,Very High ,Very Low Depression,Low anxiety,Medium lifeExp
+2008,United States,Very High ,Very High Depression,Very High anxiety,High lifeExp
+2008,Indonesia,Medium ,Very Low Depression,Low anxiety,Very Low lifeExp
+2008,Nigeria,Medium ,Very High Depression,Very Low anxiety,Very Low lifeExp
+2008,Brazil,Very High ,Very High Depression,Very High anxiety,Low lifeExp
+2008,Russia,Very High ,Low Depression,Very Low anxiety,Very Low lifeExp
+2008,Ethiopia,Medium ,Very High Depression,Low anxiety,Very Low lifeExp
+2008,Mexico,Medium ,Medium Depression,Medium anxiety,Medium lifeExp
+2008,Japan,Very High ,Very Low Depression,Very Low anxiety,Very High lifeExp
+2008,Egypt,Very Low ,Medium Depression,Medium anxiety,Very Low lifeExp
+2008,Vietnam,Very Low ,Very Low Depression,Very Low anxiety,Low lifeExp
+2008,Iran,Very Low ,Very High Depression,Very High anxiety,Low lifeExp
+2008,Turkey,Medium ,High Depression,High anxiety,Medium lifeExp
+2008,Germany,Very High ,Medium Depression,Very High anxiety,High lifeExp
+2008,Thailand,Medium ,Very Low Depression,Low anxiety,Medium lifeExp
+2008,United Kingdom,Very High ,High Depression,Medium anxiety,High lifeExp
+2008,France,Very High ,High Depression,Very High anxiety,Very High lifeExp
+2008,South Africa,Very Low ,Medium Depression,Medium anxiety,Very Low lifeExp
+2008,Italy,Very High ,Medium Depression,High anxiety,Very High lifeExp
+2008,Kenya,High ,Very High Depression,Low anxiety,Very Low lifeExp
+2008,Colombia,Low ,Very Low Depression,High anxiety,Medium lifeExp
+2008,South Korea,Very High ,Very Low Depression,Low anxiety,Very High lifeExp
+2008,Sudan,Very Low ,Very High Depression,High anxiety,Very Low lifeExp
+2008,Spain,Very High ,High Depression,High anxiety,Very High lifeExp
+2008,Algeria,Very Low ,High Depression,High anxiety,Low lifeExp
+2008,Argentina,Medium ,Very Low Depression,High anxiety,Medium lifeExp
+2008,Afghanistan,Very Low ,Very High Depression,High anxiety,Very Low lifeExp
+2008,Poland,High ,Very Low Depression,Very Low anxiety,Medium lifeExp
+2008,Canada,Very High ,Low Depression,Medium anxiety,Very High lifeExp
+2008,Morocco,Very Low ,Very High Depression,High anxiety,Low lifeExp
+2008,Ukraine,Very High ,High Depression,Very Low anxiety,Very Low lifeExp
+2008,Uzbekistan,Medium ,Low Depression,Very Low anxiety,Very Low lifeExp
+2008,Malaysia,Very Low ,Low Depression,High anxiety,Medium lifeExp
+2008,Venezuela,Very Low ,Medium Depression,Medium anxiety,Low lifeExp
+2008,Cameroon,Very Low ,Very High Depression,Very Low anxiety,Very Low lifeExp
+2008,Australia,Very High ,Very High Depression,Very High anxiety,Very High lifeExp
+2008,North Korea,Medium ,Very Low Depression,Medium anxiety,Very Low lifeExp
+2008,Taiwan,Medium ,Very Low Depression,Medium anxiety,High lifeExp
+2008,Kazakhstan,High ,Medium Depression,Very Low anxiety,Very Low lifeExp
+2008,Chile,Very Low ,High Depression,Very High anxiety,High lifeExp
+2008,Romania,High ,Very Low Depression,Very Low anxiety,Medium lifeExp
+2008,Ecuador,Very Low ,Medium Depression,High anxiety,Medium lifeExp
+2008,Netherlands,High ,Medium Depression,Very High anxiety,Very High lifeExp
+2008,Zimbabwe,Medium ,Low Depression,Very Low anxiety,Very Low lifeExp
+2008,Tunisia,Very Low ,Very High Depression,High anxiety,Medium lifeExp
+2008,Belgium,Very Low ,Medium Depression,High anxiety,High lifeExp
+2008,Dominican Republic,Very Low ,High Depression,High anxiety,Low lifeExp
+2008,Cuba,Very High ,High Depression,Medium anxiety,High lifeExp
+2008,Sweden,Medium ,High Depression,High anxiety,Very High lifeExp
+2008,Azerbaijan,Medium ,Very Low Depression,Very Low anxiety,Very Low lifeExp
+2008,Tajikistan,Very Low ,Very Low Depression,Very Low anxiety,Very Low lifeExp
+2008,Greece,Medium ,Very High Depression,Very High anxiety,Very High lifeExp
+2008,Portugal,Very Low ,Very High Depression,Very High anxiety,High lifeExp
+2008,Hungary,High ,Low Depression,Low anxiety,Medium lifeExp
+2008,Belarus,High ,High Depression,Low anxiety,Low lifeExp
+2008,Israel,Very Low ,Very High Depression,Low anxiety,Very High lifeExp
+2008,Togo,Very Low ,Very High Depression,Low anxiety,Very Low lifeExp
+2008,Austria,Low ,Low Depression,Very High anxiety,Very High lifeExp
+2008,Switzerland,Medium ,Medium Depression,Very High anxiety,Very High lifeExp
+2008,Serbia,Low ,Low Depression,Low anxiety,Medium lifeExp
+2008,Kyrgyzstan,Low ,Medium Depression,Very Low anxiety,Very Low lifeExp
+2008,Bulgaria,Medium ,Very Low Depression,Low anxiety,Low lifeExp
+2008,Singapore,Very Low ,Very Low Depression,Very Low anxiety,Very High lifeExp
+2008,Denmark,High ,Medium Depression,High anxiety,High lifeExp
+2008,Slovakia,Medium ,Very Low Depression,Low anxiety,Medium lifeExp
+2008,Finland,Medium ,Very High Depression,Medium anxiety,High lifeExp
+2008,Norway,High ,Low Depression,Very High anxiety,Very High lifeExp
+2008,New Zealand,High ,Medium Depression,Very High anxiety,Very High lifeExp
+2008,Ireland,Low ,High Depression,Very High anxiety,High lifeExp
+2008,Panama,Very Low ,Low Depression,Low anxiety,Medium lifeExp
+2008,Croatia,Medium ,Low Depression,Low anxiety,Medium lifeExp
+2008,Georgia,Medium ,Low Depression,Very Low anxiety,Low lifeExp
+2008,Mongolia,Medium ,High Depression,Very Low anxiety,Very Low lifeExp
+2008,Moldova,Very Low ,Low Depression,Medium anxiety,Low lifeExp
+2008,Jamaica,High ,Low Depression,Medium anxiety,Low lifeExp
+2008,Armenia,Medium ,Low Depression,Very Low anxiety,Low lifeExp
+2008,Lithuania,Medium ,High Depression,High anxiety,Low lifeExp
+2008,Slovenia,Medium ,Low Depression,Low anxiety,High lifeExp
+2008,Latvia,Low ,Medium Depression,Medium anxiety,Low lifeExp
+2008,Trinidad and Tobago,Very Low ,Medium Depression,Medium anxiety,Low lifeExp
+2008,Estonia,Low ,High Depression,Low anxiety,Medium lifeExp
+2008,Mauritius,Very Low ,High Depression,Medium anxiety,Low lifeExp
+2008,Bahamas,Very Low ,Low Depression,Medium anxiety,Low lifeExp
+2008,Iceland,Very Low ,Low Depression,High anxiety,Very High lifeExp
+2008,Samoa,Very Low ,Very Low Depression,Medium anxiety,Low lifeExp
+2006,China,High ,Very Low Depression,Low anxiety,Medium lifeExp
+2006,United States,Very High ,Very High Depression,Very High anxiety,High lifeExp
+2006,Russia,Very High ,Low Depression,Very Low anxiety,Very Low lifeExp
+2006,Japan,Very Low ,Very Low Depression,Very Low anxiety,Very High lifeExp
+2006,Germany,Very High ,Medium Depression,Very High anxiety,High lifeExp
+2006,United Kingdom,Very Low ,High Depression,Medium anxiety,High lifeExp
+2006,France,High ,High Depression,Very High anxiety,Very High lifeExp
+2006,Italy,High ,Medium Depression,High anxiety,Very High lifeExp
+2006,South Korea,High ,Very Low Depression,Very Low anxiety,High lifeExp
+2006,Poland,Very Low ,Very Low Depression,Very Low anxiety,Medium lifeExp
+2006,Canada,Very High ,Low Depression,Low anxiety,Very High lifeExp
+2006,Ukraine,Low ,High Depression,Very Low anxiety,Very Low lifeExp
+2006,Australia,Very Low ,Very High Depression,High anxiety,Very High lifeExp
+2006,Netherlands,High ,Medium Depression,Very High anxiety,Very High lifeExp
+2006,Sweden,High ,High Depression,High anxiety,Very High lifeExp
+2006,Belarus,Very Low ,High Depression,Low anxiety,Low lifeExp
+2006,Austria,Very High ,Low Depression,Very High anxiety,Very High lifeExp
+2006,Switzerland,High ,Low Depression,Very High anxiety,Very High lifeExp
+2006,Bulgaria,Very Low ,Very Low Depression,Low anxiety,Low lifeExp
+2006,Slovakia,Very Low ,Very Low Depression,Low anxiety,Medium lifeExp
+2006,Finland,High ,Very High Depression,Medium anxiety,High lifeExp
+2006,Norway,Very High ,Low Depression,Very High anxiety,Very High lifeExp
+2006,Croatia,Low ,Low Depression,Low anxiety,Medium lifeExp
+2006,Latvia,Very Low ,High Depression,Medium anxiety,Low lifeExp
+2006,Estonia,Low ,High Depression,Low anxiety,Low lifeExp
+2004,India,Very Low ,Very High Depression,Very Low anxiety,Very Low lifeExp
+2004,China,Very High ,Very Low Depression,Low anxiety,Medium lifeExp
+2004,United States,Very High ,Very High Depression,Very High anxiety,High lifeExp
+2004,Indonesia,Medium ,Very Low Depression,Low anxiety,Very Low lifeExp
+2004,Nigeria,Very Low ,Very High Depression,Very Low anxiety,Very Low lifeExp
+2004,Brazil,High ,Very High Depression,Very High anxiety,Low lifeExp
+2004,Russia,Very High ,Low Depression,Very Low anxiety,Very Low lifeExp
+2004,Ethiopia,Medium ,Very High Depression,Low anxiety,Very Low lifeExp
+2004,Mexico,Medium ,Low Depression,Low anxiety,Medium lifeExp
+2004,Japan,Very High ,Very Low Depression,Very Low anxiety,Very High lifeExp
+2004,Egypt,Medium ,Medium Depression,Medium anxiety,Very Low lifeExp
+2004,Iran,Medium ,Very High Depression,Very High anxiety,Low lifeExp
+2004,Turkey,High ,High Depression,High anxiety,Low lifeExp
+2004,Germany,Very High ,Medium Depression,Very High anxiety,High lifeExp
+2004,Thailand,Medium ,Very Low Depression,Low anxiety,Low lifeExp
+2004,United Kingdom,Very High ,High Depression,Medium anxiety,High lifeExp
+2004,France,Very High ,High Depression,Very High anxiety,Very High lifeExp
+2004,South Africa,Medium ,Medium Depression,Medium anxiety,Very Low lifeExp
+2004,Italy,Very High ,Medium Depression,High anxiety,Very High lifeExp
+2004,Kenya,Medium ,Very High Depression,Low anxiety,Very Low lifeExp
+2004,Colombia,Very Low ,Very Low Depression,High anxiety,Low lifeExp
+2004,South Korea,Very High ,Very Low Depression,Low anxiety,High lifeExp
+2004,Spain,Very High ,Medium Depression,High anxiety,Very High lifeExp
+2004,Argentina,Medium ,Very Low Depression,High anxiety,Medium lifeExp
+2004,Poland,High ,Very Low Depression,Very Low anxiety,Medium lifeExp
+2004,Canada,High ,Low Depression,Low anxiety,Very High lifeExp
+2004,Morocco,Low ,Very High Depression,High anxiety,Very Low lifeExp
+2004,Ukraine,Very High ,Very High Depression,Very Low anxiety,Very Low lifeExp
+2004,Uzbekistan,Medium ,Low Depression,Very Low anxiety,Very Low lifeExp
+2004,Venezuela,Very Low ,Medium Depression,Medium anxiety,Low lifeExp
+2004,Cameroon,Very Low ,Very High Depression,Very Low anxiety,Very Low lifeExp
+2004,Australia,Very High ,Very High Depression,High anxiety,Very High lifeExp
+2004,North Korea,Medium ,Very Low Depression,Medium anxiety,Low lifeExp
+2004,Syria,Very Low ,High Depression,High anxiety,Low lifeExp
+2004,Taiwan,Medium ,Very Low Depression,Medium anxiety,High lifeExp
+2004,Kazakhstan,Medium ,Medium Depression,Very Low anxiety,Very Low lifeExp
+2004,Chile,Medium ,Very High Depression,Very High anxiety,High lifeExp
+2004,Romania,Very High ,Very Low Depression,Very Low anxiety,Low lifeExp
+2004,Netherlands,Very High ,Medium Depression,Very High anxiety,High lifeExp
+2004,Zimbabwe,Low ,Low Depression,Very Low anxiety,Very Low lifeExp
+2004,Belgium,Low ,Medium Depression,High anxiety,High lifeExp
+2004,Dominican Republic,Very Low ,High Depression,High anxiety,Low lifeExp
+2004,Cuba,Very High ,High Depression,Medium anxiety,High lifeExp
+2004,Sweden,High ,High Depression,High anxiety,Very High lifeExp
+2004,Azerbaijan,Medium ,Very Low Depression,Very Low anxiety,Very Low lifeExp
+2004,Greece,High ,Very High Depression,High anxiety,High lifeExp
+2004,Portugal,Low ,Very High Depression,Very High anxiety,High lifeExp
+2004,Hungary,High ,Low Depression,Low anxiety,Low lifeExp
+2004,United Arab Emirates,Very Low ,Medium Depression,Medium anxiety,Medium lifeExp
+2004,Belarus,High ,High Depression,Low anxiety,Low lifeExp
+2004,Israel,Very Low ,Very High Depression,Very Low anxiety,Very High lifeExp
+2004,Austria,Medium ,Low Depression,Very High anxiety,High lifeExp
+2004,Switzerland,Medium ,Low Depression,Very High anxiety,Very High lifeExp
+2004,Paraguay,Very Low ,Medium Depression,Very High anxiety,Low lifeExp
+2004,Bulgaria,High ,Very Low Depression,Low anxiety,Low lifeExp
+2004,Denmark,High ,Medium Depression,High anxiety,High lifeExp
+2004,Slovakia,Medium ,Very Low Depression,Low anxiety,Medium lifeExp
+2004,Finland,Very Low ,Very High Depression,Medium anxiety,High lifeExp
+2004,Norway,Medium ,Low Depression,Very High anxiety,Very High lifeExp
+2004,New Zealand,Medium ,Medium Depression,Very High anxiety,High lifeExp
+2004,Croatia,Medium ,Low Depression,Low anxiety,Medium lifeExp
+2004,Eritrea,Very Low ,Very High Depression,Low anxiety,Very Low lifeExp
+2004,Georgia,Medium ,Low Depression,Very Low anxiety,Low lifeExp
+2004,Mongolia,Very Low ,High Depression,Very Low anxiety,Very Low lifeExp
+2004,Jamaica,Medium ,Low Depression,Medium anxiety,Low lifeExp
+2004,Lithuania,Low ,High Depression,Medium anxiety,Low lifeExp
+2004,Slovenia,Medium ,Medium Depression,Low anxiety,High lifeExp
+2004,Latvia,Medium ,High Depression,Medium anxiety,Low lifeExp
+2004,Trinidad and Tobago,Very Low ,High Depression,Medium anxiety,Low lifeExp
+2004,Estonia,Low ,Very High Depression,Low anxiety,Low lifeExp
+2004,Bahamas,Very Low ,Low Depression,Medium anxiety,Low lifeExp
+2002,China,High ,Very Low Depression,Low anxiety,Low lifeExp
+2002,United States,Very High ,Very High Depression,Very High anxiety,High lifeExp
+2002,Russia,High ,Low Depression,Very Low anxiety,Very Low lifeExp
+2002,Japan,Very Low ,Very Low Depression,Very Low anxiety,Very High lifeExp
+2002,Germany,Very High ,Medium Depression,Very High anxiety,High lifeExp
+2002,United Kingdom,Very Low ,High Depression,Medium anxiety,High lifeExp
+2002,France,High ,High Depression,Very High anxiety,High lifeExp
+2002,Italy,High ,Medium Depression,High anxiety,Very High lifeExp
+2002,South Korea,Medium ,Very Low Depression,Low anxiety,High lifeExp
+2002,Poland,Very Low ,Very Low Depression,Very Low anxiety,Medium lifeExp
+2002,Canada,High ,Medium Depression,Low anxiety,High lifeExp
+2002,Australia,Very Low ,Very High Depression,High anxiety,Very High lifeExp
+2002,Netherlands,Medium ,Medium Depression,Very High anxiety,High lifeExp
+2002,Sweden,Medium ,High Depression,High anxiety,Very High lifeExp
+2002,Belarus,Very Low ,High Depression,Low anxiety,Very Low lifeExp
+2002,Austria,High ,Low Depression,Very High anxiety,High lifeExp
+2002,Switzerland,High ,Medium Depression,Very High anxiety,Very High lifeExp
+2002,Bulgaria,Low ,Low Depression,Low anxiety,Low lifeExp
+2002,Finland,Medium ,Very High Depression,Low anxiety,High lifeExp
+2002,Norway,Very High ,Low Depression,Very High anxiety,High lifeExp
+2002,Croatia,Medium ,Low Depression,Low anxiety,Medium lifeExp
+2002,Slovenia,Very Low ,Medium Depression,Low anxiety,Medium lifeExp
+2002,Estonia,Low ,Very High Depression,Low anxiety,Low lifeExp
+2000,India,Very Low ,Very High Depression,Very Low anxiety,Very Low lifeExp
+2000,China,Very High ,Very Low Depression,Medium anxiety,Low lifeExp
+2000,United States,Very High ,Very High Depression,Very High anxiety,Medium lifeExp
+2000,Indonesia,Medium ,Very Low Depression,Low anxiety,Very Low lifeExp
+2000,Nigeria,Low ,Very High Depression,Very Low anxiety,Very Low lifeExp
+2000,Brazil,High ,Very High Depression,Very High anxiety,Low lifeExp
+2000,Russia,Very High ,Low Depression,Very Low anxiety,Very Low lifeExp
+2000,Ethiopia,Medium ,Very High Depression,Low anxiety,Very Low lifeExp
+2000,Mexico,Medium ,Low Depression,Low anxiety,Medium lifeExp
+2000,Japan,High ,Very Low Depression,Very Low anxiety,Very High lifeExp
+2000,Vietnam,Very Low ,Very Low Depression,Very Low anxiety,Low lifeExp
+2000,Iran,Medium ,Very High Depression,Very High anxiety,Low lifeExp
+2000,Turkey,Medium ,High Depression,Medium anxiety,Low lifeExp
+2000,Germany,Very High ,Low Depression,Very High anxiety,High lifeExp
+2000,Thailand,Low ,Very Low Depression,Low anxiety,Low lifeExp
+2000,United Kingdom,Very High ,High Depression,Medium anxiety,High lifeExp
+2000,France,Very High ,High Depression,Very High anxiety,High lifeExp
+2000,South Africa,Medium ,High Depression,Medium anxiety,Very Low lifeExp
+2000,Italy,Very High ,Medium Depression,High anxiety,High lifeExp
+2000,Kenya,Medium ,Very High Depression,Low anxiety,Very Low lifeExp
+2000,Colombia,Very Low ,Very Low Depression,High anxiety,Low lifeExp
+2000,South Korea,Very High ,Very Low Depression,Low anxiety,Medium lifeExp
+2000,Spain,High ,Medium Depression,Medium anxiety,High lifeExp
+2000,Algeria,Medium ,High Depression,High anxiety,Low lifeExp
+2000,Argentina,Medium ,Very Low Depression,High anxiety,Medium lifeExp
+2000,Poland,High ,Very Low Depression,Very Low anxiety,Medium lifeExp
+2000,Canada,High ,Medium Depression,Low anxiety,High lifeExp
+2000,Morocco,Medium ,Very High Depression,High anxiety,Very Low lifeExp
+2000,Ukraine,Very High ,Very High Depression,Very Low anxiety,Very Low lifeExp
+2000,Saudi Arabia,Very Low ,High Depression,High anxiety,Low lifeExp
+2000,Uzbekistan,Medium ,Low Depression,Very Low anxiety,Very Low lifeExp
+2000,Mozambique,Very Low ,Very High Depression,Medium anxiety,Very Low lifeExp
+2000,Cameroon,Very Low ,Very High Depression,Very Low anxiety,Very Low lifeExp
+2000,Australia,Very High ,Very High Depression,High anxiety,High lifeExp
+2000,North Korea,Medium ,Very Low Depression,Medium anxiety,Very Low lifeExp
+2000,Taiwan,Medium ,Very Low Depression,Medium anxiety,Medium lifeExp
+2000,Sri Lanka,Very Low ,Low Depression,Medium anxiety,Low lifeExp
+2000,Kazakhstan,Medium ,Medium Depression,Very Low anxiety,Very Low lifeExp
+2000,Chile,Very Low ,Very High Depression,High anxiety,High lifeExp
+2000,Romania,Very High ,Very Low Depression,Very Low anxiety,Low lifeExp
+2000,Netherlands,Very High ,Medium Depression,Very High anxiety,High lifeExp
+2000,Belgium,Medium ,Medium Depression,High anxiety,High lifeExp
+2000,Cuba,Very High ,Very High Depression,Medium anxiety,Medium lifeExp
+2000,Sweden,High ,High Depression,High anxiety,High lifeExp
+2000,Azerbaijan,Low ,Very Low Depression,Very Low anxiety,Very Low lifeExp
+2000,Greece,High ,Very High Depression,Very High anxiety,High lifeExp
+2000,Portugal,Very Low ,Very High Depression,Very High anxiety,High lifeExp
+2000,Hungary,Very High ,Low Depression,Low anxiety,Low lifeExp
+2000,Belarus,High ,High Depression,Low anxiety,Very Low lifeExp
+2000,Israel,Very Low ,Very High Depression,Very Low anxiety,High lifeExp
+2000,Austria,Medium ,Medium Depression,Very High anxiety,High lifeExp
+2000,Switzerland,High ,High Depression,Very High anxiety,High lifeExp
+2000,Kyrgyzstan,Very Low ,Medium Depression,Very Low anxiety,Very Low lifeExp
+2000,Bulgaria,High ,Low Depression,Low anxiety,Low lifeExp
+2000,Denmark,Medium ,Medium Depression,High anxiety,Medium lifeExp
+2000,Slovakia,Medium ,Low Depression,Low anxiety,Low lifeExp
+2000,Finland,Medium ,Very High Depression,Low anxiety,High lifeExp
+2000,Norway,High ,Low Depression,Very High anxiety,High lifeExp
+2000,New Zealand,Medium ,Medium Depression,Very High anxiety,High lifeExp
+2000,Costa Rica,Very Low ,Low Depression,Medium anxiety,High lifeExp
+2000,Ireland,Very Low ,High Depression,Very High anxiety,Medium lifeExp
+2000,Kuwait,Very Low ,High Depression,Medium anxiety,Medium lifeExp
+2000,Croatia,Very Low ,Low Depression,Low anxiety,Medium lifeExp
+2000,Georgia,Medium ,Low Depression,Very Low anxiety,Low lifeExp
+2000,Uruguay,Very Low ,Very Low Depression,High anxiety,Medium lifeExp
+2000,Moldova,Very Low ,Medium Depression,Medium anxiety,Very Low lifeExp
+2000,Jamaica,High ,Low Depression,Medium anxiety,Low lifeExp
+2000,Armenia,Very Low ,Very Low Depression,Very Low anxiety,Low lifeExp
+2000,Qatar,Very Low ,Very High Depression,Medium anxiety,Medium lifeExp
+2000,Lithuania,Medium ,Very High Depression,Medium anxiety,Low lifeExp
+2000,Slovenia,Low ,Medium Depression,Low anxiety,Medium lifeExp
+2000,North Macedonia,Very Low ,Very Low Depression,Low anxiety,Low lifeExp
+2000,Latvia,Low ,High Depression,Medium anxiety,Low lifeExp
+2000,Trinidad and Tobago,Very Low ,High Depression,Medium anxiety,Very Low lifeExp
+2000,Estonia,Low ,Very High Depression,Low anxiety,Low lifeExp
+2000,Bahamas,Low ,Low Depression,Medium anxiety,Low lifeExp
+2000,Iceland,Very Low ,Low Depression,High anxiety,Very High lifeExp
+2000,Barbados,Very Low ,Low Depression,Medium anxiety,Medium lifeExp
+1998,China,Medium ,Low Depression,Medium anxiety,Low lifeExp
+1998,United States,High ,Very High Depression,Very High anxiety,Medium lifeExp
+1998,Russia,Very High ,Low Depression,Very Low anxiety,Very Low lifeExp
+1998,Japan,High ,Very Low Depression,Very Low anxiety,Very High lifeExp
+1998,Germany,Very High ,Low Depression,Very High anxiety,High lifeExp
+1998,United Kingdom,Very Low ,Very High Depression,Medium anxiety,High lifeExp
+1998,France,High ,High Depression,Very High anxiety,High lifeExp
+1998,Italy,High ,High Depression,High anxiety,High lifeExp
+1998,South Korea,Medium ,Very Low Depression,Low anxiety,Medium lifeExp
+1998,Canada,High ,Medium Depression,Medium anxiety,High lifeExp
+1998,Ukraine,Very Low ,Very High Depression,Very Low anxiety,Very Low lifeExp
+1998,Australia,Very Low ,Very High Depression,High anxiety,High lifeExp
+1998,Kazakhstan,Very Low ,Medium Depression,Very Low anxiety,Very Low lifeExp
+1998,Netherlands,High ,Medium Depression,Very High anxiety,High lifeExp
+1998,Belgium,Very Low ,Low Depression,High anxiety,High lifeExp
+1998,Sweden,Low ,High Depression,High anxiety,High lifeExp
+1998,Belarus,Very Low ,High Depression,Low anxiety,Very Low lifeExp
+1998,Austria,High ,Medium Depression,Very High anxiety,High lifeExp
+1998,Switzerland,Medium ,High Depression,Very High anxiety,High lifeExp
+1998,Bulgaria,Very Low ,Low Depression,Low anxiety,Low lifeExp
+1998,Denmark,Very Low ,High Depression,High anxiety,Medium lifeExp
+1998,Finland,High ,Very High Depression,Medium anxiety,High lifeExp
+1998,Norway,Very High ,Low Depression,Very High anxiety,High lifeExp
+1996,India,Very Low ,Very High Depression,Very Low anxiety,Very Low lifeExp
+1996,China,Very High ,Low Depression,Low anxiety,Low lifeExp
+1996,United States,Very High ,High Depression,High anxiety,Medium lifeExp
+1996,Indonesia,Medium ,Very Low Depression,Low anxiety,Very Low lifeExp
+1996,Nigeria,Medium ,High Depression,Very Low anxiety,Very Low lifeExp
+1996,Brazil,High ,High Depression,Very High anxiety,Very Low lifeExp
+1996,Russia,Very High ,Low Depression,Very Low anxiety,Very Low lifeExp
+1996,Ethiopia,Low ,Very High Depression,Low anxiety,Very Low lifeExp
+1996,Mexico,Very Low ,Low Depression,Very Low anxiety,Low lifeExp
+1996,Japan,High ,Very Low Depression,Very Low anxiety,Very High lifeExp
+1996,Philippines,Very Low ,Very Low Depression,High anxiety,Very Low lifeExp
+1996,Iran,Low ,Very High Depression,Very High anxiety,Very Low lifeExp
+1996,Turkey,Medium ,High Depression,Medium anxiety,Low lifeExp
+1996,Germany,Very High ,Low Depression,Very High anxiety,Medium lifeExp
+1996,Thailand,Very Low ,Very Low Depression,Very Low anxiety,Low lifeExp
+1996,United Kingdom,High ,High Depression,Medium anxiety,High lifeExp
+1996,France,Very High ,High Depression,Very High anxiety,High lifeExp
+1996,South Africa,Medium ,High Depression,Medium anxiety,Very Low lifeExp
+1996,Italy,Very High ,High Depression,High anxiety,High lifeExp
+1996,Kenya,Medium ,Very High Depression,Low anxiety,Very Low lifeExp
+1996,South Korea,Very High ,Very Low Depression,Low anxiety,Medium lifeExp
+1996,Uganda,Very Low ,Very High Depression,Medium anxiety,Very Low lifeExp
+1996,Spain,Very High ,Medium Depression,High anxiety,High lifeExp
+1996,Algeria,Low ,High Depression,High anxiety,Very Low lifeExp
+1996,Argentina,Low ,Very Low Depression,High anxiety,Low lifeExp
+1996,Poland,High ,Very Low Depression,Very Low anxiety,Low lifeExp
+1996,Canada,Very High ,Medium Depression,Medium anxiety,High lifeExp
+1996,Morocco,Very Low ,Very High Depression,High anxiety,Very Low lifeExp
+1996,Ukraine,Very High ,Very High Depression,Very Low anxiety,Very Low lifeExp
+1996,Uzbekistan,Very Low ,Low Depression,Very Low anxiety,Very Low lifeExp
+1996,Mozambique,Very Low ,Very High Depression,Medium anxiety,Very Low lifeExp
+1996,Malaysia,Low ,Low Depression,High anxiety,Low lifeExp
+1996,Australia,Very High ,Very High Depression,High anxiety,High lifeExp
+1996,North Korea,Medium ,Very Low Depression,Medium anxiety,Very Low lifeExp
+1996,Syria,Very Low ,High Depression,High anxiety,Low lifeExp
+1996,Taiwan,Very Low ,Very Low Depression,Medium anxiety,Medium lifeExp
+1996,Zambia,Very Low ,High Depression,Medium anxiety,Very Low lifeExp
+1996,Kazakhstan,High ,Medium Depression,Very Low anxiety,Very Low lifeExp
+1996,Romania,Very High ,Very Low Depression,Very Low anxiety,Very Low lifeExp
+1996,Ecuador,Very Low ,Medium Depression,High anxiety,Low lifeExp
+1996,Netherlands,Very High ,Medium Depression,Very High anxiety,High lifeExp
+1996,Burundi,Very Low ,Very High Depression,Low anxiety,Very Low lifeExp
+1996,Tunisia,Very Low ,Very High Depression,High anxiety,Low lifeExp
+1996,Belgium,Medium ,Low Depression,High anxiety,High lifeExp
+1996,Cuba,Very High ,Very High Depression,Medium anxiety,Medium lifeExp
+1996,Sweden,High ,High Depression,High anxiety,High lifeExp
+1996,Azerbaijan,Very Low ,Very Low Depression,Very Low anxiety,Very Low lifeExp
+1996,Greece,Medium ,Very High Depression,Very High anxiety,High lifeExp
+1996,Portugal,Low ,Very High Depression,Very High anxiety,Medium lifeExp
+1996,Hungary,Very High ,Low Depression,Low anxiety,Low lifeExp
+1996,Belarus,High ,High Depression,Low anxiety,Very Low lifeExp
+1996,Israel,Very Low ,Very High Depression,Medium anxiety,High lifeExp
+1996,Austria,Low ,Medium Depression,Very High anxiety,High lifeExp
+1996,Switzerland,Medium ,High Depression,Very High anxiety,High lifeExp
+1996,Bulgaria,High ,Low Depression,Low anxiety,Low lifeExp
+1996,Denmark,Medium ,High Depression,High anxiety,Medium lifeExp
+1996,Slovakia,Low ,Low Depression,Low anxiety,Low lifeExp
+1996,Finland,Medium ,Very High Depression,Medium anxiety,High lifeExp
+1996,Norway,Medium ,Low Depression,Very High anxiety,High lifeExp
+1996,New Zealand,Medium ,Medium Depression,Very High anxiety,Medium lifeExp
+1996,Costa Rica,Very Low ,Low Depression,Medium anxiety,Medium lifeExp
+1996,Ireland,Medium ,High Depression,Very High anxiety,Medium lifeExp
+1996,Croatia,Very Low ,Medium Depression,Low anxiety,Medium lifeExp
+1996,Georgia,Very Low ,Low Depression,Very Low anxiety,Very Low lifeExp
+1996,Mongolia,Very Low ,High Depression,Very Low anxiety,Very Low lifeExp
+1996,Moldova,Low ,Medium Depression,Medium anxiety,Very Low lifeExp
+1996,Puerto Rico,Very Low ,Low Depression,High anxiety,Medium lifeExp
+1996,Jamaica,Medium ,Low Depression,Medium anxiety,Low lifeExp
+1996,Armenia,Very Low ,Very Low Depression,Very Low anxiety,Low lifeExp
+1996,Lithuania,Very Low ,Very High Depression,Medium anxiety,Low lifeExp
+1996,Namibia,Very Low ,Medium Depression,Low anxiety,Very Low lifeExp
+1996,Slovenia,Very Low ,Medium Depression,Low anxiety,Medium lifeExp
+1996,Latvia,Very Low ,High Depression,Medium anxiety,Very Low lifeExp
+1996,Trinidad and Tobago,Very Low ,High Depression,Medium anxiety,Very Low lifeExp
+1996,Bahamas,Very Low ,Low Depression,Medium anxiety,Low lifeExp
+1996,Tonga,Very Low ,Very Low Depression,Medium anxiety,Very Low lifeExp
+1994,China,Low ,Low Depression,Low anxiety,Low lifeExp
+1994,United States,High ,High Depression,High anxiety,Medium lifeExp
+1994,Russia,Very High ,Low Depression,Very Low anxiety,Very Low lifeExp
+1994,Japan,Medium ,Very Low Depression,Very Low anxiety,High lifeExp
+1994,Germany,Very High ,Low Depression,Very High anxiety,Medium lifeExp
+1994,United Kingdom,Low ,Very High Depression,Medium anxiety,Medium lifeExp
+1994,France,Medium ,High Depression,Very High anxiety,High lifeExp
+1994,Italy,Very High ,High Depression,High anxiety,High lifeExp
+1994,South Korea,Medium ,Very Low Depression,Very Low anxiety,Medium lifeExp
+1994,Canada,High ,Medium Depression,High anxiety,High lifeExp
+1994,Ukraine,Very Low ,Very High Depression,Very Low anxiety,Very Low lifeExp
+1994,Uzbekistan,Very Low ,Low Depression,Very Low anxiety,Very Low lifeExp
+1994,Australia,Very Low ,Very High Depression,High anxiety,High lifeExp
+1994,Kazakhstan,Low ,Medium Depression,Very Low anxiety,Very Low lifeExp
+1994,Netherlands,Medium ,Medium Depression,Very High anxiety,High lifeExp
+1994,Sweden,Low ,High Depression,High anxiety,High lifeExp
+1994,Belarus,Very Low ,High Depression,Low anxiety,Very Low lifeExp
+1994,Austria,High ,Medium Depression,Very High anxiety,Medium lifeExp
+1994,Switzerland,High ,Very High Depression,Very High anxiety,High lifeExp
+1994,Finland,Medium ,Very High Depression,Medium anxiety,Medium lifeExp
+1994,Norway,Very High ,Low Depression,Very High anxiety,High lifeExp
+1994,Slovenia,Low ,Medium Depression,Low anxiety,Medium lifeExp
+1992,China,Very High ,Low Depression,Low anxiety,Very Low lifeExp
+1992,United States,Very High ,Medium Depression,High anxiety,Medium lifeExp
+1992,Indonesia,Medium ,Very Low Depression,Low anxiety,Very Low lifeExp
+1992,Pakistan,Very Low ,High Depression,Low anxiety,Very Low lifeExp
+1992,Nigeria,Medium ,High Depression,Very Low anxiety,Very Low lifeExp
+1992,Brazil,Low ,High Depression,Very High anxiety,Very Low lifeExp
+1992,Ethiopia,Low ,Very High Depression,Low anxiety,Very Low lifeExp
+1992,Mexico,Very Low ,Low Depression,Very Low anxiety,Low lifeExp
+1992,Japan,Very High ,Very Low Depression,Very Low anxiety,High lifeExp
+1992,Philippines,Very Low ,Low Depression,High anxiety,Very Low lifeExp
+1992,Iran,Low ,Very High Depression,Very High anxiety,Very Low lifeExp
+1992,Turkey,Medium ,High Depression,Medium anxiety,Very Low lifeExp
+1992,Germany,Very High ,Low Depression,Very High anxiety,Medium lifeExp
+1992,Thailand,Very Low ,Very Low Depression,Very Low anxiety,Low lifeExp
+1992,United Kingdom,Very High ,Very High Depression,Medium anxiety,Medium lifeExp
+1992,France,Very High ,Very High Depression,Very High anxiety,High lifeExp
+1992,South Africa,Low ,High Depression,Medium anxiety,Very Low lifeExp
+1992,Italy,Very High ,Medium Depression,Very High anxiety,High lifeExp
+1992,Kenya,Medium ,Very High Depression,Low anxiety,Very Low lifeExp
+1992,Colombia,Very Low ,Very Low Depression,High anxiety,Very Low lifeExp
+1992,South Korea,Very High ,Very Low Depression,Very Low anxiety,Low lifeExp
+1992,Spain,Very High ,High Depression,High anxiety,High lifeExp
+1992,Algeria,Very Low ,High Depression,High anxiety,Very Low lifeExp
+1992,Argentina,Very Low ,Very Low Depression,High anxiety,Low lifeExp
+1992,Poland,Very High ,Very Low Depression,Very Low anxiety,Low lifeExp
+1992,Canada,Very High ,Low Depression,High anxiety,High lifeExp
+1992,Morocco,Low ,Very High Depression,High anxiety,Very Low lifeExp
+1992,Ghana,Very Low ,High Depression,Very Low anxiety,Very Low lifeExp
+1992,Peru,Very Low ,Very Low Depression,High anxiety,Very Low lifeExp
+1992,Malaysia,Very Low ,Low Depression,High anxiety,Low lifeExp
+1992,Australia,Very High ,Very High Depression,High anxiety,High lifeExp
+1992,North Korea,High ,Very Low Depression,Medium anxiety,Low lifeExp
+1992,Taiwan,Very Low ,Very Low Depression,Medium anxiety,Medium lifeExp
+1992,Romania,High ,Very Low Depression,Very Low anxiety,Low lifeExp
+1992,Netherlands,Very High ,Medium Depression,Very High anxiety,High lifeExp
+1992,Belgium,Low ,Low Depression,High anxiety,Medium lifeExp
+1992,Cuba,Very High ,Very High Depression,Medium anxiety,Medium lifeExp
+1992,Sweden,High ,High Depression,High anxiety,High lifeExp
+1992,Greece,Very Low ,Very High Depression,Very High anxiety,High lifeExp
+1992,Hungary,Very High ,Medium Depression,Low anxiety,Very Low lifeExp
+1992,Israel,Very Low ,Very High Depression,Medium anxiety,High lifeExp
+1992,Austria,Very High ,Medium Depression,Very High anxiety,Medium lifeExp
+1992,Switzerland,Medium ,Very High Depression,Very High anxiety,High lifeExp
+1992,Bulgaria,High ,Low Depression,Low anxiety,Low lifeExp
+1992,Denmark,Medium ,Very High Depression,High anxiety,Medium lifeExp
+1992,Finland,High ,Very High Depression,Medium anxiety,Medium lifeExp
+1992,Norway,Very High ,Low Depression,Very High anxiety,High lifeExp
+1992,New Zealand,High ,Medium Depression,Very High anxiety,Medium lifeExp
+1992,Ireland,Very Low ,High Depression,Very High anxiety,Medium lifeExp
+1992,Croatia,Medium ,Medium Depression,Low anxiety,Low lifeExp
+1992,Mongolia,Very Low ,High Depression,Very Low anxiety,Very Low lifeExp
+1992,Puerto Rico,Very Low ,Low Depression,Medium anxiety,Medium lifeExp
+1992,Jamaica,Medium ,Low Depression,Medium anxiety,Low lifeExp
+1992,Qatar,Very Low ,High Depression,Medium anxiety,Medium lifeExp
+1992,Lithuania,Very Low ,High Depression,Medium anxiety,Low lifeExp
+1992,Namibia,Very Low ,Medium Depression,Low anxiety,Very Low lifeExp
+1992,Slovenia,Low ,Medium Depression,Low anxiety,Medium lifeExp
+1992,Latvia,Low ,Very High Depression,Medium anxiety,Very Low lifeExp
+1992,Estonia,Low ,Very High Depression,Low anxiety,Low lifeExp
+1992,Luxembourg,Very Low ,Medium Depression,High anxiety,Medium lifeExp
+1992,Suriname,Very Low ,Very High Depression,Medium anxiety,Very Low lifeExp
+1992,Bahamas,Very Low ,Low Depression,Medium anxiety,Low lifeExp
